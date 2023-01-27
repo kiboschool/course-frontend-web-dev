@@ -1,17 +1,7 @@
-# Kibo Course Template
+# Frontend Web Development
 
-## Using this template
-
-- create a github repo for the course
-- update this Readme with the relevant info for the course
-- update book.toml with the course name and authors
-- create a main and draft vercel deployment 
-- update the materials in src/
-
-# [Course Name]
-
-- Course design plan: 
-- See course info: 
+- Course design plan: https://docs.google.com/document/d/12bjmNy7qyx9BYh7WYcKgVkpHMeRoT1kJrT2Uah808vE/edit
+- See course info: https://docs.google.com/document/d/1-xkpdJNIvzVTJnE-t3poEOEyxaTeaQvlJqTXbSFfRzs/edit#heading=h.xfofsp2yit4z
 - See info about Kibo's BSc. Computer Science: https://kibo.school/degree/
 
 ## What's here?

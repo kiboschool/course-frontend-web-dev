@@ -13,4 +13,4 @@
 
 ### Week 2
 
-...
+- [Resources](lessons/resources.md)

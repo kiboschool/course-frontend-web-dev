@@ -99,11 +99,8 @@ Add a simple welcome screen with the following elements and features:
 ## 7. Workspace and Complementary Readings
 
 ### Prepare your workspace
-
 Make sure you have VS code installed
-
-### Related Resources and Topics
 
 ### Delivery
 
-- Think about the delivery
+Get your starter code and delivery link here [asd](https://classroom.github.com/a/bLIQYHdv)

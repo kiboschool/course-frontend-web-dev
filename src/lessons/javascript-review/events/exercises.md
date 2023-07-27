@@ -1,4 +1,5 @@
 # Exercises
+The following questions are not mandatory.
 
 1. **What is an Event?**
     - Create a simple HTML page with a button. Write a JavaScript function that listens for the button's click event and logs a message to the console when the button is clicked.

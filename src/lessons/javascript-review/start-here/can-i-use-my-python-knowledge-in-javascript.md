@@ -10,7 +10,8 @@ Yes, in the next lessons, we will cover the basics of javascript, but keep the f
 | Float | y = 3.14 | Number | let y = 3.14; |
 | String | s = 'hello' | String | let s = 'hello'; |
 | Boolean | b = True | Boolean | let b = true; |
-1. Data operations
+
+2. Data operations
 
 | Python Concept | Python Example | JavaScript Concept | JavaScript Example |
 | --- | --- | --- | --- |
@@ -18,44 +19,51 @@ Yes, in the next lessons, we will cover the basics of javascript, but keep the f
 | Subtraction | result = x - y | Subtraction | let result = x - y; |
 | Multiplication | result = x * y | Multiplication | let result = x * y; |
 | Division | result = x / y | Division | let result = x / y; |
-1. Variables
+
+3. Variables
 
 | Python Concept | Python Example | JavaScript Concept | JavaScript Example |
 | --- | --- | --- | --- |
 | Variable assignment | x = 10 | Variable assignment | let x = 10; |
 | Constants | X = 10 | Constants | const X = 10; |
-1. Conditionals
+
+4. Conditionals
 
 | Python Concept | Python Example | JavaScript Concept | JavaScript Example |
 | --- | --- | --- | --- |
 | If-else | if x > 0: print("Positive") | If-else | if (x > 0) { console.log("Positive"); } |
 |  | else: print("Non-positive") |  | else { console.log("Non-positive"); } |
-1. Loops
+
+5. Loops
 
 | Python Concept | Python Example | JavaScript Concept | JavaScript Example |
 | --- | --- | --- | --- |
 | For loop | for i in range(3): print(i) | For loop | for (let i = 0; i < 3; i++) { console.log(i); } |
 | While loop | while x > 0: x -= 1 | While loop | while (x > 0) { x--; } |
-1. Functions
+
+6. Functions
 
 | Python Concept | Python Example | JavaScript Concept | JavaScript Example |
 | --- | --- | --- | --- |
 | Function definition | def func(): return "Hello" | Function definition | function func() { return "Hello"; } |
-1. Data structures (Array, objects)
+
+7. Data structures (Array, objects)
 
 | Python Concept | Python Example | JavaScript Concept | JavaScript Example |
 | --- | --- | --- | --- |
 | List (Array) | my_list = [1, 2, 3] | Array | let myArray = [1, 2, 3]; |
 | Dictionary (Object) | my_dict = {"key": "value"} | Object | let myObject = {"key": "value"}; |
 | List of Dictionaries | my_list = [{"key1": "value1"}, {"key2": "value2"}] | Array of Objects | let myArray = [{"key1": "value1"}, {"key2": "value2"}]; |
-1. Built-in methods for strings
+
+8. Built-in methods for strings
 
 | Python Concept | Python Example | JavaScript Concept | JavaScript Example |
 | --- | --- | --- | --- |
 | String length | length = len(s) | String length | let length = s.length; |
 | String concatenation | combined = s1 + s2 | String concatenation | let combined = s1 + s2; |
 | String find | index = s.find('llo') | String indexOf | let index = s.indexOf('llo'); |
-1. Built-in methods for arrays
+
+9. Built-in methods for arrays
 
 | Python Concept | Python Example | JavaScript Concept | JavaScript Example |
 | --- | --- | --- | --- |

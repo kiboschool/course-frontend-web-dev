@@ -1,5 +1,7 @@
 # JavaScript questions
 
+The following questions, can be used as a guide to direct your learning. **They are not mandatory**
+
 ### Variables:
 
 1. How do you declare a variable in JavaScript?

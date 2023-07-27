@@ -1,4 +1,5 @@
 # Questions about dom
+The following questions are not mandatory.
 
 **1. What is the DOM?**
 

@@ -1,6 +1,4 @@
-# What is html css and js
-
-I would like to start by distinguishing between this 3 languages, how do they look like and what do they do.
+# What is html css and js?
 
 ![Untitled](./what-is-html-css-and-js/untitled.png)
 

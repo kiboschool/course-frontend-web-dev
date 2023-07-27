@@ -1,4 +1,6 @@
-# Exercises
+# Exercises 
+
+The following exercises are not mandatory. (No need to be submited on Gradescope).
 
 1. **What is the DOM?**
     - Create an HTML page with various elements (e.g., headings, paragraphs, lists, images) and then open the Developer Tools in the browser to explore the DOM structure.

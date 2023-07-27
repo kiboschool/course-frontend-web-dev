@@ -115,10 +115,32 @@ Perform the following comparison in your console:
 2 > 3// returns: false
 typeof (3 > 2)// returns: "boolean"
 typeof (2 > 3)// returns: "boolean"
+5 == 5 // returns: true
 ```
 
 > typeof is an special command of Javascriot that will tell you what data type you have i.e typeof "hello”, will return string
 > 
+
+#### Differente between == and ===
+`==` and `===` are comparison operators, and they have a fundamental difference in the way they compare two values.
+
+1. **Double Equals (==)**: This is a loose equality comparison operator in JavaScript. It compares two values for equality, after performing any necessary type conversions. This means that if you are comparing a number and a string, JavaScript will attempt to convert the string to a number before making the comparison.
+
+For example:
+```javascript
+    console.log(5 == "5"); // true, because "5" is coerced to the number 5
+    console.log(true == 1); // true, because true is coerced to the number 1
+```
+
+2. **Triple Equals (===)**: This is a strict equality comparison operator in JavaScript. It compares two values for equality, without performing any type conversions. If the types of the two values are different, it will always return `false`.
+
+For example:
+```javascript
+    console.log(5 === "5"); // false, because no type coercion is done
+    console.log(true === 1); // false, because true (boolean) is not the same type as 1 (number)
+```
+
+In general, it's a good practice to use `===` in JavaScript, because it avoids strange bugs that can occur due to unexpected type conversion.
 
 `Strings` can be compared in the same way.
 
@@ -180,38 +202,3 @@ The difference in meaning between `undefined` and `null` is a JavaScript design 
 Understanding the difference between `undefined` and `null` (yes, there is a semantic difference) is important, and easier than it seems. Both values denote the absence of a value, but in one case, we could say that it is *intentional* (`null`) and in the other it is not (`undefined`).
 
 The value `undefined` means that a value has not been assigned, as opposed to `null`, which means that we have assigned a null value. This can be very useful for differentiating states in asynchronous operations, ... it is common for `undefined` to mean that the operation has not yet completed, while `null` means that it has completed but returned a null value.
-
-### Automatic Type Conversion
-
-When an operator is applied to the "wrong" type of value, JavaScript will silently convert the value to the data type it expects, using a set of rules that are often not what you want or expect. This is called *type coercion*. Look at these examples:
-
-```jsx
-8 * null// returns: 0
-'5' - 1// returns: 4
-'5' + 1// returns: 51
-'five' * 2// returns: NaN
-false == 0// returns: true
-```
-
-In the first expression, null becomes 0, and in the second expression, "5" becomes 5 (from string to number). Still, in the third expression, + tries to do string concatenation before numeric addition, so 1 is converted to "1" (from number to string). When something that does not correspond to a number obviously (like "five" or undefined) is converted to a number, the resulting value is NaN. The following arithmetic operations on NaN will continue to produce NaN. Therefore, in the fourth expression, "five" * 2 returns NaN.
-
-In the case of the fifth expression, when comparing values that have different data types, JavaScript uses a complicated and confusing set of rules to determine what to do. In most cases, it just tries to convert one of the values to the data type of the other value. However, when null or undefined is on either side of the operation, it is only true if both sides are null or undefined.
-
-Continuing with the fifth expression, the rules for converting strings and numbers to Booleans say that 0, NaN, and the empty string ("") count as *false*, while all other values count as *true*. Because of this, the following expressions return *true*:
-
-```jsx
-false == 0// returns: true
-'' == 0// returns: true
-
-```
-
-For cases where you do not want any automatic type conversion to occur, there are two extra operators: === and !==. The first tests whether a value is precisely equal to another, and the second whether it is not precisely equal. Therefore, by changing from == to === in the same expressions above, we get the opposite result: *false*:
-
-```jsx
-false === 0// returns: false
-'' === 0// returns: false
-```
-
----
-
-## Add a note between == and === difference

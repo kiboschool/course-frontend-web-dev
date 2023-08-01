@@ -1,5 +1,0 @@
-# Why Learn JavaScript?
-
-Although this course is focused for web applications, many of the principles can be used for other platforms. JavaScript is a very powerful programming language that, with the right tools, it could allow you to create [mobile apps](https://reactnative.dev/), [desktop apps](https://www.electronjs.org/es/), [program robots](https://www.bouvet.no/bouvet-deler/utbrudd/learning-javascript-and-arduino-programming-with-johnny-five) or [create powerful back ends](https://expressjs.com/). 
-
-Not to mention it's [one of the most](https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/) demanded programming languages for professional job opportunities and it's easy-to-learn syntax, it was the obvious choice when choosing a programming  language for writing WebApplications. Even with interesting alternatives like [Dart](https://dart.dev/) or [Web Assembly](https://webassembly.org/), JavaScript still the number choice for every thing related to front end programming.

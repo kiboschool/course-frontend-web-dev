@@ -1,4 +1,4 @@
-# Usestate
+# useState
 
 ## Understanding the `useState` Hook
 

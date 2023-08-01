@@ -1,4 +1,4 @@
-# Information type and operations
+# Information Type and Operations
 
 ## Learning objectives
 

@@ -1,8 +1,8 @@
-# Project
+# Project: Covid Dashboard using React
 
 ## **Project Description**
 
-For this project, you'll be taking your existing COVID Dashboard built with vanilla JavaScript and HTML/CSS and you'll be recreating it as a React application.
+For this project, you'll be taking your existing Covid Dashboard built with vanilla JavaScript and HTML/CSS and you'll be recreating it as a React application.
 
 This exercise will help you apply your newfound knowledge of React to a familiar context. The goal is to build a dynamic web application that displays, and manipulates data.
 

@@ -1,4 +1,4 @@
-# Can i use my python knowledge in javascript
+# Can I Use My Python knowledge in JavaScript
 
 Yes, in the next lessons, we will cover the basics of javascript, but keep the following page bookmarked, because many of the concepts we will see, probably you've already seen while learning Python.
 

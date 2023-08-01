@@ -1,4 +1,4 @@
-# Global state
+# Global State
 
 While local component state is extremely useful, it doesn't solve every problem. State can be "lifted" up to parent components to be shared between children, but this can quickly become unwieldy. As applications grow larger and more complex, managing state can become harder.
 
@@ -12,6 +12,6 @@ To avoid prop drilling, global state comes in. A global state is a state that ca
 
 Global state can be a source of complexity, as changes to global state can affect many parts of your application. Properly managing these changes to ensure a consistent user experience is one of the challenges of complex state management.
 
-![Global store diagram. All state is centralised in a store and components talk directly to store. This avoids prop drilling.](./global-state/untitled-1.png)
+![Global store diagram. All state is centralized in a store and components talk directly to store. This avoids prop drilling.](./global-state/untitled-1.png)
 
-Global store diagram. All state is centralised in a store and components talk directly to store. This avoids prop drilling.
+Global store diagram. All state is centralized in a store and components talk directly to store. This avoids prop drilling.

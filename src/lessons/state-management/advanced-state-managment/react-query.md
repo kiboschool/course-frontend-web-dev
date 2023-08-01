@@ -1,4 +1,4 @@
-# React query
+# React Query
 
 When building applications, we often need to fetch, cache, synchronize, and update server state in our React applications. Although you can manage all of these processes manually (with `react context` and `fetch`), It's very time consuming and complicated to set up. This is where libraries like React Query come in handy.
 

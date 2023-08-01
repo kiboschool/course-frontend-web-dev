@@ -1,4 +1,4 @@
-# Project covid 19 data dashboard
+# Project: Covid 19 Data Dashboard
 
 ## 1. Project Summary
 

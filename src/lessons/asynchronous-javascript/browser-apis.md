@@ -1,4 +1,4 @@
-# Browser apis
+# Browser APIs
 
 Modern web browsers are a treasure trove of features and functionalities that extend far beyond mere page viewing capabilities. Much of this functionality is provided through a variety of built-in APIs, which allow developers to tap into and utilize the browser's built-in features.
 

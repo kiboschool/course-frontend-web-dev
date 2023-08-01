@@ -1,4 +1,4 @@
-# React context
+# React Context
 
 React by default, comes with it's own library to handle global state, **React Context.**
 

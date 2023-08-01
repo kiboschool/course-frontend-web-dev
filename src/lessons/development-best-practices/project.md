@@ -1,8 +1,8 @@
-# Project
+# Project: Encrypt and Decrypt
 
 ## 1. Introduction
 
-Encryption means: *hide the content of a message from plain sight, so that only authorised parties can decipher an encrypted text*. The [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher) is one of the earliest known encryption methods. The Roman emperor Julius Caesar used it to send secret orders to his generals on the battlefield.
+Encryption means: *hide the content of a message from plain sight, so that only authorized parties can decipher an encrypted text*. The [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher) is one of the earliest known encryption methods. The Roman emperor Julius Caesar used it to send secret orders to his generals on the battlefield.
 
 The Caesar Cipher is one of the simplest techniques for encrypting a message, each letter of the original text is replaced by another letter found a fixed number of positions (offset) ahead in the same alphabet.
 
@@ -19,7 +19,7 @@ Today, all simple substitution ciphers are easily decrypted and, although they d
 
 ## 2. Project Summary
 
-In this project, you will create a web application that will allow a user to encrypt and decrypt a text in the browser by indicating a specific character shift (offset). 
+In this project, you will create a web application that will allow a user to encrypt and decrypt a text in the browser by indicating a specific character shift (offset).
 
 You will use HTML, CSS, and JavaScript.
 

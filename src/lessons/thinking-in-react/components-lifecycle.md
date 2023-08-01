@@ -1,4 +1,4 @@
-# Components lifecycle
+# Components Lifecycle
 
 When it comes to building applications with React, understanding the lifecycle of components is crucial. Whether you're fetching data, managing state, or handling side effects, knowing how and when components render and re-render is key.
 

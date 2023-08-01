@@ -1,4 +1,4 @@
-# Benefits disadvantages of SPAs
+# Benefits and Disadvantages of SPAs
 
 ## Advantages of Single Page Applications
 

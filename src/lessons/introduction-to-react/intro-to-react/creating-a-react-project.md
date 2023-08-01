@@ -1,4 +1,4 @@
-# Creating a react project
+# Creating a React Project
 
 We already used Vite, to create our Vanilla JS applications. We can also use it to create React Applications.
 
@@ -42,7 +42,7 @@ Now, our React application should be running at http://localhost:5173
 
 The project created includes the following directory structure:
 
-```
+```ascii
 my_project
 ├── index.html
 ├── package.json

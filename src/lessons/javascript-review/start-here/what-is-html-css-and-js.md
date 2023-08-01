@@ -1,4 +1,4 @@
-# What is html css and js?
+# What are HTML, CSS, and JS?
 
 ![Untitled](./what-is-html-css-and-js/untitled.png)
 

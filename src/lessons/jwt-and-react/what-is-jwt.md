@@ -1,4 +1,4 @@
-# What is jwt
+# What is JWT
 
 Traditional server-rendered applications usually handle authentication through sessions. When a user logs in, the server creates a session, stores it on the server-side, and sends a cookie containing the session ID to the browser. For subsequent requests, the browser sends this cookie along, and the server validates it against the stored session information. This means server will remember who is making this request.
 

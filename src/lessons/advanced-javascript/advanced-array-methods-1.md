@@ -1,4 +1,4 @@
-# Advanced array methods 1
+# Advanced Array Methods 1
 
 ---
 

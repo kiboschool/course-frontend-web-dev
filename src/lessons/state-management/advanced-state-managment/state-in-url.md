@@ -1,4 +1,4 @@
-# State in url
+# State in URL
 
 While using an application, users might want to share a certain view of the app or bookmark it to return later. In such cases, the application's state should be encoded in the URL. With `react-router-dom`, we can easily manage and manipulate the state in the URL, allowing our React application to be navigable.
 

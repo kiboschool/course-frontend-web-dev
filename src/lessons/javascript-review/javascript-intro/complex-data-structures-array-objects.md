@@ -1,4 +1,4 @@
-# Complex data structures array objects
+# Complex Data Structures Array Objects
 
 If you are a Python developer looking to understand JavaScript, you likely know about Lists of Dictionaries. In JavaScript, an equivalent construct is the Array of Objects. Let's delve into this topic.
 

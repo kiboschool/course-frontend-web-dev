@@ -1,4 +1,4 @@
-# Project
+# Project: Weather Dashboard
 
 ## Project Description
 

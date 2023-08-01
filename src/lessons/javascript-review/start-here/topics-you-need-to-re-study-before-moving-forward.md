@@ -1,14 +1,17 @@
-# Topics you need to re study before moving forward
+# Topics to Review
 
-### HTML
+## HTML
 
 1. https://wf-2.vercel.app/web-foundations-july-2022/foundations/html-elements-and-attributes.html
 
-### CSS
+## CSS
+
 1. https://wf-2.vercel.app/web-foundations-july-2022/foundations/css-selectors-and-properties.html
 
-### Figma
+## Figma
+
 1. https://pm-and-design.vercel.app/lessons/ui-design-basics/introduction-to-Figma.html
 
-### UI Design
+## UI Design
+
 1. https://pm-and-design.vercel.app/lessons/ui-design-basics/basic-principles.html

@@ -52,7 +52,7 @@ function MyButton() {
 
 In the example above, we log the event object to the console whenever the button is clicked.
 
-## Other events
+## Other Events
 
 React supports all the event handlers that you can use in standard HTML, such as `onClick`, `onSubmit`, `onChange`, and many others. Let's take a look at the `onChange` and `onSubmit` handlers specifically:
 

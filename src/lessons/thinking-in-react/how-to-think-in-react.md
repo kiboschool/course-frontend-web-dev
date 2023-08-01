@@ -1,4 +1,4 @@
-# How to think in react
+# How to Think in React
 
 React is a popular JavaScript library for building user interfaces. The core philosophy of React revolves around the concept of Components. In this article, we'll dive deep into understanding components, their significance, how to create and reuse them, and more.
 

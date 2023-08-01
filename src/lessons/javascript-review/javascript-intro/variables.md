@@ -14,7 +14,7 @@ x = 10
 
 In JavaScript, we have three keywords for declaring variables: `var`, `let`, and `const`.
 
-```
+```js
 var x = 10;
 let y = 20;
 const z = 30;
@@ -54,7 +54,7 @@ c = 20; // This will throw an error
 
 An important difference between JavaScript and Python is the concept of hoisting. In JavaScript, variable and function declarations are moved to the top of their containing scope during the compile phase. This means that you can use a variable before it's declared.
 
-```
+```js
 f = 10;
 var f; // No error - 'f' is hoisted to the top of the scope
 
@@ -62,7 +62,7 @@ var f; // No error - 'f' is hoisted to the top of the scope
 
 However, only the declarations are hoisted, not the initializations. This can lead to unexpected results:
 
-```
+```js
 console.log(g); // undefined
 var g = 10;
 

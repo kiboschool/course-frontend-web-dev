@@ -1,4 +1,4 @@
-# Protected routes
+# Protected Routes
 
 In single-page applications, certain routes should **only** be accessible to users who are authenticated (logged in), and these are called protected routes.
 
@@ -7,16 +7,16 @@ That means, in a React app, we will have some routes that will be only available
 ```jsx
 <BrowserRouter>
   <Routes>
-		<Route path="public" element={<Login />} />
-			<Route
-				path="private"
-				element={
-							<PrivateRoute>
-                 <Profile />
-               </PrivateRoute>
+        <Route path="public" element={<Login />} />
+            <Route
+                path="private"
+                element={  
+                    <PrivateRoute>
+                    <Profile />
+                </PrivateRoute>
             }
         />
-	</Routes>
+    </Routes>
 </BrowserRouter>
 ```
 

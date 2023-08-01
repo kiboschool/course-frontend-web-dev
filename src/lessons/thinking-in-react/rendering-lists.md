@@ -1,4 +1,4 @@
-# Rendering lists
+# Rendering Lists
 
 Rendering lists of data is a very common requirement in web applications. React provides an efficient and intuitive way to display collections. Let's explore how to do this.
 

@@ -1,4 +1,4 @@
-# Async await
+# Async/Await
 
 JavaScript has introduced `async`/`await` syntax that allows us to write asynchronous code that looks and behaves more like synchronous code. 
 

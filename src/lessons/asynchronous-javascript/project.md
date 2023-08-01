@@ -1,8 +1,8 @@
-# Project
+# Project: Pokédex
 
 ## Project Description
 
-In this project, you are tasked to build a web-based Pokédex application using React. 
+In this project, you are tasked to build a web-based Pokédex application using React.
 
 ![Untitled](./project/untitled.png)
 

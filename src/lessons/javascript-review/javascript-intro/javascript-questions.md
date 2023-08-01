@@ -1,8 +1,8 @@
-# JavaScript questions
+# JavaScript Questions
 
 The following questions, can be used as a guide to direct your learning. **They are not mandatory**
 
-### Variables:
+## Variables
 
 1. How do you declare a variable in JavaScript?
 2. What's the difference between `var`, `let`, and `const`?
@@ -15,7 +15,7 @@ The following questions, can be used as a guide to direct your learning. **They 
 9. How do you change the value of a variable in JavaScript?
 10. Can you change the value of a `const` variable?
 
-### Conditionals:
+## Conditionals
 
 1. What's the syntax for an `if` statement in JavaScript?
 2. How do you add an 'else' clause to an `if` statement?
@@ -28,7 +28,7 @@ The following questions, can be used as a guide to direct your learning. **They 
 9. What's a ternary operator and how does it work?
 10. Can you use nested conditionals in JavaScript? How?
 
-### Loops:
+## Loops
 
 1. What's the syntax for a `for` loop in JavaScript?
 2. What's the syntax for a `while` loop?
@@ -41,7 +41,7 @@ The following questions, can be used as a guide to direct your learning. **They 
 9. What happens when you modify the array during a `for...of` loop?
 10. Can you use nested loops in JavaScript? How?
 
-### Functions:
+## Functions
 
 1. What's the syntax for declaring a function in JavaScript?
 2. What's the difference between a function declaration and a function expression?
@@ -54,7 +54,7 @@ The following questions, can be used as a guide to direct your learning. **They 
 9. How does JavaScript handle extra arguments passed to a function?
 10. What's a callback function?
 
-### Array of Objects:
+## Array of Objects
 
 1. How do you declare an array of objects in JavaScript?
 2. How do you access a specific object in an array?
@@ -65,6 +65,4 @@ The following questions, can be used as a guide to direct your learning. **They 
 7. How do you loop over an array of objects?
 8. How do you find an object in an array based on a property value?
 9. How do you sort an array of objects based on a property value?
-10. How do you filter an array of objects based on a property
-
-value?
+10. How do you filter an array of objects based on a property value?

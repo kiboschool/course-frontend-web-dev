@@ -99,6 +99,7 @@ Add a simple welcome screen with the following elements and features:
 ## 7. Workspace and Complementary Readings
 
 ### Prepare your workspace
+
 Make sure you have VS code installed
 
 ### Delivery

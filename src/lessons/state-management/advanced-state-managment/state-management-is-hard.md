@@ -1,4 +1,4 @@
-# State management is hard
+# State Management is Hard
 
 Let's remember the concept of state in programming: **It's a snapshot of values at a particular point in time.** 
 

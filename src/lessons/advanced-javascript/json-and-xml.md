@@ -1,4 +1,4 @@
-# Json and xml
+# JSON and XML
 
 ## Understanding JSON (JavaScript Object Notation)
 

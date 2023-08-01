@@ -1,4 +1,4 @@
-# Jwt and react
+# JWT and React
 
 After all the theoretical introduction is time to see how we do this JWT auth implementation in react:
 
@@ -47,8 +47,8 @@ import axios from 'axios';
 
 try{
       const { data } = await axios.post(
-				'http://localhost:3000/session',  
-				{ email, password } );
+        'http://localhost:3000/session',  
+        { email, password } );
       setToken(data.token)
       navigate('/profile')
 }

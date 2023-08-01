@@ -1,4 +1,4 @@
-# What is an event
+# What is an Event
 
 In the context of web development, interaction and responsiveness are key elements of a compelling user experience. JavaScript events form the backbone of this interactive web by enabling your application to respond to user actions in real time. This article explains why JavaScript events are crucial in web development and provides a few basic examples to illustrate their usage.
 

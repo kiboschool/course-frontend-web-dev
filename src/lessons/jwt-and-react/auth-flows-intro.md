@@ -1,4 +1,4 @@
-# Auth flows intro
+# Introduction to Authentication Flows
 
 ## What is an Authentication Flow?
 

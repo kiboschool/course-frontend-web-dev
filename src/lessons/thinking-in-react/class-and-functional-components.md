@@ -1,4 +1,4 @@
-# Class and functional components
+# Class and Functional Components
 
 React gives us the flexibility to define components either as a class or a function. So far, we have been using functional components in our examples, but class components are another tool at our disposal. In this article, we will explore the differences between functional and class components, and when to use one over the other.
 

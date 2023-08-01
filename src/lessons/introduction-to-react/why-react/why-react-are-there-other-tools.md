@@ -1,4 +1,4 @@
-# Why React? Are there other tools?
+# Why React? Are there Other Tools?
 
 When it comes to choosing a JavaScript library or framework for building user interfaces, developers have a plethora of options. React, Angular, and Vue are among the top choices in the current market. Each of these tools has its strengths and weaknesses, and the best choice often depends on the specific requirements of the project. However, React has seen a surge in popularity and demand in recent years, and for good reason.
 
@@ -30,7 +30,7 @@ While React is a library, Angular is a full-fledged MVC framework. This means th
 
 Vue, on the other hand, is designed to be progressive. It was designed from the ground up to be incrementally adoptable. The core library focuses on the view layer only and is easy to integrate with other libraries or existing projects. Vue is easier to learn than both React and Angular. However, it's not backed by a large company like React or Angular, and its job market is currently smaller.
 
-Here is a very nice comparation video:
+Here is a very nice comparative video:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/T2uKprwHHXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 

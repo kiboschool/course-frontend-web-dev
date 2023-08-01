@@ -1,4 +1,4 @@
-# JavaScript modules
+# JavaScript Modules
 
 In this article, we will learn JavaScript Modules. Modules are particularly useful for maintaining a clean and organized codebase and can dramatically improve code reuse, comprehension, and maintenance.
 

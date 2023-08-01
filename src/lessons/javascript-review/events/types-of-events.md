@@ -1,4 +1,4 @@
-# Types of events
+# Types of Events
 
 As we covered before, JavaScript is known for its capability to create interactive and dynamic web applications. This dynamism largely depends on the events JavaScript can listen for and respond to. Events are actions or occurrences that happen in the browser. JavaScript provides a plethora of event types that cater to a myriad of user interactions. This article will discuss several common event types.
 

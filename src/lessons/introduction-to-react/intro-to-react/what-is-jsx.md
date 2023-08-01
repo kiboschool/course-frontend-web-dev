@@ -1,4 +1,4 @@
-# What is jsx
+# What is JSX
 
 JavaScript XML (JSX) is a unique syntax extension introduced by React that allows us to write JavaScript that looks like HTML.
 

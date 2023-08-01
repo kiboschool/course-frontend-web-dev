@@ -97,6 +97,4 @@ export default MyComponent;
 
 ### Which one to use?
 
-On the beginning, while learning. Start with `Inline CSS` and as you progress try different styles like external style sheet and `StyledComponents`
-
-.
+On the beginning, while learning. Start with `Inline CSS` and as you progress try different styles like external style sheet and `StyledComponents`.

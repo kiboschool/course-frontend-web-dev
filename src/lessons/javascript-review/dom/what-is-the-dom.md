@@ -31,7 +31,7 @@ For example, the DOM representation of the following HTML code:
 
 would look something like this:
 
-```
+```ascii
 Document
     |
     |- DOCTYPE: html

@@ -1,6 +1,6 @@
 # What is a SPA
 
-# What is a Single Page Application (SPA)?
+## What is a Single Page Application (SPA)?
 
 In the world of web development, a Single Page Application (SPA) is a type of web application that fits on a single web page. All your necessary code (HTML, JavaScript, and CSS) is retrieved with a single page load, or the appropriate resources are dynamically loaded and added to the page as necessary, usually in response to user actions.
 

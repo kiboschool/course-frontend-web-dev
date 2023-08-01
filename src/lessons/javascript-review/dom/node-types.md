@@ -1,8 +1,8 @@
-# Node types
+# Node Types
 
 When working with the Document Object Model (DOM), you will encounter various types of nodes that make up the structure of a webpage. Each type of node plays a unique role within the DOM and offers different functionality.
 
-## Node Types
+## Common Node Types
 
 The DOM consists of several types of nodes. The most commonly used ones are:
 

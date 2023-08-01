@@ -1,4 +1,4 @@
-# Our first component
+# Our First Component
 
 Now, from the generated project, open the file App.jsx. It should look like this:
 

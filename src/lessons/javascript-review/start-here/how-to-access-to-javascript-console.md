@@ -1,1 +1,1 @@
-# How to access to JavaScript console?
+# Accessing the JavaScript Console

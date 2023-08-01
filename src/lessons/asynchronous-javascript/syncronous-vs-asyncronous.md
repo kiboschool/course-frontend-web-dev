@@ -1,4 +1,4 @@
-# Syncronous vs asyncronous
+# Synchronous vs Asynchronous
 
 Understanding the differences between synchronous and asynchronous programming is crucial when working in a language like JavaScript, which allows both models. This article will delve into the differences between these two paradigms and discuss why you might choose one over the other.
 

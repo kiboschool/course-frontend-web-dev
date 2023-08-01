@@ -1,4 +1,4 @@
-# Deleting elements
+# Deleting Elements
 
 You may find the need to remove elements from the Document Object Model (DOM). Whether it's because a user action triggers the removal or it's part of your application's state changes, knowing how to properly remove elements it's helpful, let's explore:
 

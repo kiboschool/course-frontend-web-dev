@@ -1,4 +1,4 @@
-# Selecting elements
+# Selecting Elements
 
 Interacting with HTML elements is a crucial part of working with JavaScript and the Document Object Model (DOM). There are several methods available to select HTML elements, allowing you to manipulate their content, style, attributes, and more.
 

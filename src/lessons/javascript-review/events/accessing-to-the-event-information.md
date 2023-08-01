@@ -1,4 +1,4 @@
-# Accessing to the event information
+# Accessing the Event Information
 
 ---
 
@@ -33,10 +33,10 @@ Here's an example of accessing mouse event information:
 
 ```jsx
 document.querySelector('button').addEventListener('mousemove', 
-	function(event) {
+    function(event) {
     console.log(
-			'Mouse position (X, Y): ' + event.clientX + ', ' + event.clientY
-		);
+            'Mouse position (X, Y): ' + event.clientX + ', ' + event.clientY
+        );
 });
 ```
 

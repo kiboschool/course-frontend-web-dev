@@ -1,4 +1,4 @@
-# Intro to component lifecycle
+# Introduction to Component Lifecycle
 
 React is a powerful JavaScript library for building user interfaces. One of the most important concepts in React is the component lifecycle.
 
@@ -14,7 +14,7 @@ In React, a component lifecycle can be defined as the series of methods that are
 
 ![Untitled](./intro-to-component-lifecycle/untitled.png)
 
-## How to add lifecycle method to my component?
+## Adding a Lifecycle Method to a Component
 
 Open the previous project you created.  We will add some code to the `App.js` so it looks like this:
 

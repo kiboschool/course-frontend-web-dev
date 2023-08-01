@@ -1,4 +1,4 @@
-# Calling apis
+# Calling APIs
 
 Having a strong understanding of asynchronous programming in JavaScript is foundational to successfully making API calls. In fact, the fetch API, which you may have used before, is a perfect example of an asynchronous operation. This time, we are going to explore in detail how it works and what does it do.
 

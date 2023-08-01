@@ -1,4 +1,4 @@
-# Bonus clarifying es6 es2015 etc
+# Bonus: Clarifying ES6, ES2015, etc.
 
 In your JavaScript learning journey, you've probably the word ES5, ES6, ES2015. It's hard to get lost on all those concepts, so let's explain what they mean:
 

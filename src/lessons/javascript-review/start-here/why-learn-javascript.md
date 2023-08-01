@@ -1,4 +1,4 @@
-# Why learn Javascript?
+# Why Learn JavaScript?
 
 Although this course is focused for web applications, many of the principles can be used for other platforms. JavaScript is a very powerful programming language that, with the right tools, it could allow you to create [mobile apps](https://reactnative.dev/), [desktop apps](https://www.electronjs.org/es/), [program robots](https://www.bouvet.no/bouvet-deler/utbrudd/learning-javascript-and-arduino-programming-with-johnny-five) or [create powerful back ends](https://expressjs.com/). 
 

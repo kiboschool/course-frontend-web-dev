@@ -1,4 +1,4 @@
-# Inserting elements
+# Inserting Elements
 
 Creating new HTML elements dynamically is a key part of building interactive web applications. The Document Object Model (DOM) provides methods that allow you to create, insert, and manipulate HTML elements on a webpage using JavaScript. Let's explore how to create new elements and add them to your webpage.
 

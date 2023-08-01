@@ -1,4 +1,4 @@
-# Writing unit tests
+# Writing Unit Tests
 
 While creating our applications, testing is a critical aspect that ensures the correctness and reliability of your code. Testing, particularly unit testing, is all about writing additional code to verify if your functions are working as expected. One of the most popular testing libraries in the JavaScript ecosystem is [Jest](https://jestjs.io/). This article will guide you through the process of writing a basic unit test with Jest.
 
@@ -105,4 +105,4 @@ describe('greeting', () => {
 
 In the test file, we now have a `describe` block for `greeting` that groups two tests together. The `it` function is used instead of `test`, and the combination of `describe` and `it` leads to more readable test names.
 
-You also might be curious about what `describe` and `it` individually do. They basically provide formatting to  the test. Try to write a test with only `describe` (without `it`) or viceversa and you will see how different the format in the console is!
+You also might be curious about what `describe` and `it` individually do. They basically provide formatting to  the test. Try to write a test with only `describe` (without `it`) or vice versa and you will see how different the format in the console is!

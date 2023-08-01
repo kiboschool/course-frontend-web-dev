@@ -1,4 +1,4 @@
-# Useeffect
+# useEffect
 
 ## Using the useEffect Hook
 

@@ -1,4 +1,4 @@
-# Updating elements
+# Updating Elements
 
 One of the key advantages of the Document Object Model (DOM) is the ability to modify HTML elements on a webpage using JavaScript. This allows us to make web pages interactive and dynamic. In this article, we'll explore several ways to update and modify DOM elements.
 

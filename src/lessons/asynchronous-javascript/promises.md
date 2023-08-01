@@ -1,6 +1,6 @@
 # Promises
 
-## Problem with callbacks
+## Problem with Callbacks
 
 While callbacks are very powerful, they can lead to what is known as "callback hell" if not managed properly. This is particularly true when you have a series of asynchronous operations that depend on each other. In these cases, each operation's callback contains another operation which has another callback, leading to heavily nested code. Check the following code:
 

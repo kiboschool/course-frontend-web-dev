@@ -1,4 +1,4 @@
-# Other global state libraries
+# Other Global State Libraries
 
 Due to the inherent complexity of state management, especially in large applications, a number of libraries and patterns have emerged to help manage global state. 
 

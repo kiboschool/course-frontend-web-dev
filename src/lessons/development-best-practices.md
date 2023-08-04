@@ -1,5 +1,6 @@
 # Development Best Practices
 
+**Welcome to Week 2: Development best practices**
 
 Welcome to the second module, "Development Best Practices". In this section, we will take a step further into the world of professional JavaScript development. 
 

@@ -1,6 +1,8 @@
 # JavaScript Review
 
-Welcome to the JavaScript review course! This course is designed to help you solidify your Front end knowledge, with a focus on core JavaScript language.
+**Welcome to Week 1: Javascript Intro**
+
+Welcome to the JavaScript  Intro week! This course is designed to help you solidify your Front end knowledge, with a focus on core JavaScript language.
 
 On this week you'll start with a deep dive into the basic principles of JavaScript: variables, conditionals, loops, functions, and complex data structures.
 

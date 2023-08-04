@@ -15,12 +15,10 @@ Finally, you'll learn about JavaScript events, discovering how to make your appl
 
 After this week, you will be able to:
 
-1. **JavaScript Fundamentals**: Understand and be able to use JavaScript's data types, variables, conditionals, loops, and functions. Understand and be able to work with complex data structures such as arrays and objects.
-
-2. **DOM Manipulation**: Understand what the DOM is and be able to select, update, insert, and delete DOM elements.
-
-3. **Events**: Understand what events are, know how to access event information, and be able to create interactivity through event handlers.
-
-4. **Project Application**: Apply what you've learned in a project, demonstrating your ability to create interactive web pages using JavaScript and DOM manipulation.
+- Understand the basic syntax, variables, data types and control structures in JavaScript.
+- Manipulate and traverse DOM elements in JavaScript.
+- Register and handle different types of browser events using JavaScript.
+- Develop a basic interactive web application using pure JavaScript and DOM manipulation.
+- Demonstrate a clear understanding of loops, conditionals and functions in JavaScript.
 
 The course is designed to be hands-on, with plenty of exercises to reinforce your learning and a project at the end to put what you've learned into practice. Happy learning!

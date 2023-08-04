@@ -5,7 +5,6 @@ Introduction to the week's content (maybe some visuals to engage students.)
 ## Learning Outcomes
 
 After this week, you will be able to:
-- Outcome 1
-- Outcome 2
 
-(Use specific verbs to describe the intended outcome.  Lots of examples here: https://www.utica.edu/academic/Assessment/new/Blooms%20Taxonomy%20-%20Best.pdf)
+- Write Javascript programs using your Python knowladge as an example
+- Create a complete Javascript front end app using html/css/js

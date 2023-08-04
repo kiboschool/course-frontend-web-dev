@@ -1,5 +1,8 @@
 # Project: Weather Dashboard
 
+## Project set-up
+Grab your starting code and link [here](https://classroom.github.com/a/g-VhoJds)
+
 ## Project Description
 
 In this project, you will be building a **Weather Dashboard** using React.

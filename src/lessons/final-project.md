@@ -1,5 +1,7 @@
 # Final Project: Travel Planner
 
+## Project set-up
+GH classroom link here: [https://classroom.github.com/a/wJ_Rs1sd](https://classroom.github.com/a/wJ_Rs1sd)
 ## Project Description
 
 The Travel Planner app is your opportunity to put together the concepts you've learned throughout the course. This app will let the user plan trips by fetching data from various APIs to get weather forecasts, hotel prices, popular attractions, and more.
@@ -10,7 +12,7 @@ Your app should have a login feature, and access to the main features of the app
 
 ## Time Constraints
 
-In difference with previous projects, you will have 2 weeks to finish this project.
+In difference with previous projects, **you will have 2 weeks** to finish this project.
 
 ## Learning Objectives
 

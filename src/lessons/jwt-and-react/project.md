@@ -1,5 +1,7 @@
 # Project
 
+## Project set-up
+Get your starter code [here](https://classroom.github.com/a/uHgwUWNy)
 ## Project Description
 
 In this project, you will refactor your Pokedex application by implementing an authentication flow using JSON Web Tokens (JWT). Only authenticated users should be able to access the Pokedex app. You will use React and a mock API endpoint for user authentication and management of user sessions.

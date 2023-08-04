@@ -101,11 +101,11 @@
     - [State in URLs](lessons/state-management/advanced-state-managment/state-in-url.md)
   - [Project](lessons/state-management/project.md)
 
-- [JWT and React](lessons/jwt-and-react.md)
+- [JWT, Auth and React](lessons/jwt-and-react.md)
   - [Introduction to Auth Flows](lessons/jwt-and-react/auth-flows-intro.md)
   - [What is JWT](lessons/jwt-and-react/what-is-jwt.md)
   - [Protected Routes](lessons/jwt-and-react/protected-routes.md)
-  - [JWT and React](lessons/jwt-and-react/jwt-and-react.md)
+  - [JWT, Auth and React](lessons/jwt-and-react/jwt-and-react.md)
   - [Exercise](lessons/jwt-and-react/exercise.md)
   - [Project](lessons/jwt-and-react/project.md)
 

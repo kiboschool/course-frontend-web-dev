@@ -1,5 +1,8 @@
 # Project: Pokedex with React Query
 
+## Project set-up
+Link to GH pages [here](https://classroom.github.com/a/Siyq3FwW)
+
 ## Project description
 
 This project will give you the opportunity to deepen your understanding of the libraries and hooks covered this week. You'll be refactoring your Pokedex project from last week, adding in React Query for handling API requests, React Context for storing non-API global state, and a contact form with at least 6 fields, utilizing the useReducer hook to manage form state.

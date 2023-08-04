@@ -1,5 +1,8 @@
 # Project: Encrypt and Decrypt
 
+## 0. Project set-up
+Get your starter code and project set up [here](https://classroom.github.com/a/d6Fdc2aJ)
+
 ## 1. Introduction
 
 Encryption means: *hide the content of a message from plain sight, so that only authorized parties can decipher an encrypted text*. The [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher) is one of the earliest known encryption methods. The Roman emperor Julius Caesar used it to send secret orders to his generals on the battlefield.
@@ -122,3 +125,4 @@ The boilerplate we provide contains this structure:
 3. To view your program's interface in the browser, use the `npm dev` command to start the web server and go to `http://localhost:5173` in your browser.
 4. Let's get coding! 
 5. This project was built using [Vite](https://vitejs.dev/), check it out if you find any weird commands (like `build` in package.json)
+

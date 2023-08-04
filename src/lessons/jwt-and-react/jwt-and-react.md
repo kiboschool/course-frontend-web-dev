@@ -1,4 +1,4 @@
-# JWT and React
+# JWT, Auth and React
 
 After all the theoretical introduction is time to see how we do this JWT auth implementation in react:
 

@@ -1,5 +1,7 @@
 # Project: Covid 19 Data Dashboard
 
+## 0. Project set-up
+Get your starter code and project set up [here](https://classroom.github.com/a/GCkMCAGH)
 ## 1. Project Summary
 
 In this project, you will build an interactive data dashboard that provides meaningful insights into the COVID-19 pandemic based on given data. The dashboard will display data related to cases, deaths, and recoveries, and allow users to filter and sort this data by country or date.

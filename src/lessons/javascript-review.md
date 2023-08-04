@@ -1,11 +1,26 @@
 # JavaScript Review
 
-Introduction to the week's content (maybe some visuals to engage students.)
+**Welcome to Week 1: Javascript Intro**
+
+Welcome to the JavaScript  Intro week! This course is designed to help you solidify your Front end knowledge, with a focus on core JavaScript language.
+
+On this week you'll start with a deep dive into the basic principles of JavaScript: variables, conditionals, loops, functions, and complex data structures.
+
+You'll then explore the DOM, learning how to select, update, insert, and delete elements, allowing you to create dynamic and interactive web pages.
+
+Finally, you'll learn about JavaScript events, discovering how to make your applications responsive and user-friendly.
+
+
+![intro-web](../../front-end-course/javascript-review/intro-web.jpeg)
 
 ## Learning Outcomes
 
 After this week, you will be able to:
-- Outcome 1
-- Outcome 2
 
-(Use specific verbs to describe the intended outcome.  Lots of examples here: https://www.utica.edu/academic/Assessment/new/Blooms%20Taxonomy%20-%20Best.pdf)
+- Understand the basic syntax, variables, data types and control structures in JavaScript.
+- Manipulate and traverse DOM elements in JavaScript.
+- Register and handle different types of browser events using JavaScript.
+- Develop a basic interactive web application using pure JavaScript and DOM manipulation.
+- Demonstrate a clear understanding of loops, conditionals and functions in JavaScript.
+
+The course is designed to be hands-on, with plenty of exercises to reinforce your learning and a project at the end to put what you've learned into practice. Happy learning!

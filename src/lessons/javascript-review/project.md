@@ -1,5 +1,8 @@
 # Project
 
+## 0. Project set-up
+Get your starter code and project set up [here](https://classroom.github.com/a/bLIQYHdv)
+
 ## 1. Preamble
 
 We will test what you've learned so far by building a Trivia. It will test your knowledge in HTML, CSS, and JS.
@@ -101,7 +104,3 @@ Add a simple welcome screen with the following elements and features:
 ### Prepare your workspace
 
 Make sure you have VS code installed
-
-### Delivery
-
-Get your starter code and delivery link here [asd](https://classroom.github.com/a/bLIQYHdv)

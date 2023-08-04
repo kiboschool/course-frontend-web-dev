@@ -1,6 +1,9 @@
 # Project: Covid Dashboard using React
 
-## **Project Description**
+## Project set-up
+Link to GH classroom [here](https://classroom.github.com/a/vYmDVkEp)
+
+## Project Description
 
 For this project, you'll be taking your existing Covid Dashboard built with vanilla JavaScript and HTML/CSS and you'll be recreating it as a React application.
 

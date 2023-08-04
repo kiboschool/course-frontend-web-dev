@@ -1,5 +1,8 @@
 # Project: Pokédex
 
+## Project set-up
+GH classroom link [here](https://classroom.github.com/a/y-LV-9rD)
+
 ## Project Description
 
 In this project, you are tasked to build a web-based Pokédex application using React.

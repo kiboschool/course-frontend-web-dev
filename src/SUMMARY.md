@@ -36,7 +36,7 @@
   - [Project](lessons/javascript-review/project.md)
 
 - [Development Best Practices](lessons/development-best-practices.md)
-  - [JavaScript mMdules](lessons/development-best-practices/javascript-modules.md)
+  - [JavaScript Modules](lessons/development-best-practices/javascript-modules.md)
   - [Github Pages Deploy](lessons/development-best-practices/gh-pages-deploy.md)
   - [Writing Unit Tests](lessons/development-best-practices/writing-unit-tests.md)
   - [Project](lessons/development-best-practices/project.md)

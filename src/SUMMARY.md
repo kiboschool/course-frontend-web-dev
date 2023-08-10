@@ -87,7 +87,7 @@
   - [Browser APIs](lessons/asynchronous-javascript/browser-apis.md)
   - [Project](lessons/asynchronous-javascript/project.md)
 
-- [State Management](lessons/state-management.md)
+- [Routing and State management](lessons/state-management.md)
   - [React Router](lessons/state-management/react-router.md)
     - [What is React Router?](lessons/state-management/react-router/what-is-react-router.md)
     - [Exercise (React Router)](lessons/state-management/react-router/react-router-exercise.md)

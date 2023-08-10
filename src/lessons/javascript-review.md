@@ -10,8 +10,7 @@ You'll then explore the DOM, learning how to select, update, insert, and delete 
 
 Finally, you'll learn about JavaScript events, discovering how to make your applications responsive and user-friendly.
 
-
-![intro-web](../../front-end-course/javascript-review/intro-web.jpeg)
+![intro-web](javascript-review/intro-web.jpeg)
 
 ## Learning Outcomes
 

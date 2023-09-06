@@ -8,7 +8,7 @@ In essence, the DOM transforms your HTML document into an object-oriented tree s
 
 ## The Structure of the DOM
 
-The DOM represents an HTML or XML document as a logical tree structure, with each element, attribute, and piece of text in the document becoming a node in this tree. 
+The DOM represents an HTML or XML document as a logical tree structure, with each element, attribute, and piece of text in the document becoming a node in this tree.
 
 ![Untitled](./what-is-the-dom/untitled.png)
 
@@ -78,4 +78,4 @@ document.querySelector('p').textContent = 'New text for the first paragraph.';
 
 ---
 
-If you need, [this video](https://www.youtube.com/watch?v=y17RuWkWdn8), explains incredibly well what is the dom and how to query it.
+If you need it, [this video](https://www.youtube.com/watch?v=y17RuWkWdn8), explains incredibly well what is the DOM and how it can be queried.

@@ -1,6 +1,7 @@
 # Project: Pokédex
 
-## Project set-up
+## Project Set-up
+
 GH classroom link [here](https://classroom.github.com/a/y-LV-9rD)
 
 ## Project Description
@@ -17,11 +18,11 @@ The application will interface with an external Pokemon API ([pokeapi.co](http:/
 - Practice using state and props in React.
 - Learn to build a more complex application using React.
 - Understand and practice handling events in React.
-- Component Desig
+- Component Design
 
 ## Project Structure
 
-This time the whole project set up will be up to you, you will need to use vite to create a React app, and design your own components.
+This time the whole project set-up will be up to you, you will need to use Vite to create a React app and design your components.
 
 ## Project Milestones
 
@@ -39,7 +40,7 @@ Once you have the Pokémon data, your next task is to display it. Create a `Pok�
 
 ### Milestone 4: Fetch and Display Pokémon Details
 
-Create a function in your App component that fetches more details for a selected Pokémon. This function should be triggered when a Pokémon from the list is clicked. Create a `PokémonDetails` component that takes the detailed Pokémon data as a prop and displays it. Individual pokemon data should be displayed on the same page.
+Create a function in your App component that fetches more details for a selected Pokémon. This function should be triggered when a Pokémon from the list is clicked. Create a `PokémonDetails` component that takes the detailed Pokémon data as a prop and displays it. Individual Pokemon data should be displayed on the same page.
 
 ### Milestone 5: Styling your Application
 

@@ -1,7 +1,9 @@
 # Final Project: Travel Planner
 
-## Project set-up
+## Project Set-up
+
 GH classroom link here: [https://classroom.github.com/a/wJ_Rs1sd](https://classroom.github.com/a/wJ_Rs1sd)
+
 ## Project Description
 
 The Travel Planner app is your opportunity to put together the concepts you've learned throughout the course. This app will let the user plan trips by fetching data from various APIs to get weather forecasts, hotel prices, popular attractions, and more.
@@ -34,5 +36,5 @@ In difference with previous projects, **you will have 2 weeks** to finish this p
 ### Bonus Milestones
 
 1. **Responsive Design**: Make your app look great on both desktop and mobile devices.
-2. **Share Destinations**: Allow users to save favorite destinations and view them later. (URL state)
-3. **Interactive Map**: Implement an interactive map for users to visually it's favorite locations using a service like Mapbox or Google Maps API.
+2. **Share Destinations**: Allow users to save favorite destinations and view them later (URL state).
+3. **Interactive Map**: Implement an interactive map for users to visually its favorite locations using a service like Mapbox or Google Maps API.

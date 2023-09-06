@@ -14,7 +14,7 @@ console.log('Third');
 
 In the example above, 'First' is logged, then 'Second', and finally 'Third'. Each operation is performed in order, one after the other.
 
-This model is straightforward and easy to follow, but it can lead to inefficiency. For example, if you need to fetch data from a server, the entire program halts and waits until the data has been fetched, even if other parts of your program could be executing. (This is how Python works. It's inefficient)
+This model is straightforward to follow, but it can lead to inefficiency. For example, if you need to fetch data from a server, the entire program halts and waits until the data has been fetched, even if other parts of your program could be executing. (This is how Python works. It's inefficient)
 
 ## Asynchronous Programming
 
@@ -28,7 +28,7 @@ console.log('Third');
 // logs second, First, Third
 ```
 
-In the example above, even though 'Second' appears before 'Third' in the code, 'Third' is logged before 'Second'. **This is because setTimeout is an asynchronous function.** It sets up a timer, but doesn't wait for the timer to finish before moving on to the next line of code.
+In the example above, even though 'Second' appears before 'Third' in the code, 'Third' is logged before 'Second'. **This is because setTimeout is an asynchronous function.** It sets up a timer but doesn't wait for the timer to finish before moving on to the next line of code.
 
 This model is efficient, as it allows the program to continue executing other code instead of waiting. However, it can be more complex to understand and handle, especially when dealing with dependencies between operations.
 

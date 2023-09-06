@@ -1,18 +1,18 @@
 # Introduction to React
 
-**Welcome to Week 4: Introduction to React**
+## Welcome to Week 4: Introduction to React
 
 Welcome to Week 4, where we are introducing React, a popular JavaScript library for building user interfaces. React is one of the most popular tools to build UIs (User Interfaces)
 
 This week we will be taking a closer look at why we use React, what Single Page Applications (SPAs) are, and the benefits and drawbacks of SPAs. We'll examine alternatives to React and understand why we've chosen to use it for this course. 
 
-Next, we'll delve into the nuts and bolts of React. We'll create our first React project and explore how to build components, which are the building blocks of any React application. You'll get familiar with JSX, an extension to JavaScript that allows us to write HTML-like syntax in our JavaScript code. 
+Next, we'll delve into the nuts and bolts of React. We'll create our first React project and explore how to build components, which are the building blocks of any React application. You'll get familiar with JSX, an extension to JavaScript that allows us to write HTML-like syntax in our JavaScript code.
 
 We'll also cover how to style components using CSS and handle events within them. Lastly, we'll introduce the component lifecycle, a core concept in React that allows us to control what happens at each stage of a component's life in the DOM.
 
 By the end of the week, you'll have a firm grasp of the basics of React and will apply your newfound skills to a project.
 
-### Learning objetives
+### Learning Objectives
 
 By the end of this week, you will be able to:
 

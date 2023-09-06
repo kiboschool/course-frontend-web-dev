@@ -1,7 +1,5 @@
 # Advanced Array Methods 2
 
----
-
 This time, we will be looking at `some()`, `every()`, `find()`, `findIndex()`, and `includes()`.
 
 Before we start, let's discuss an important concept in JavaScript that's used in all of these methods - the callback function.
@@ -10,7 +8,7 @@ Before we start, let's discuss an important concept in JavaScript that's used in
 
 A callback function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action. In other words, when we use methods like `map()`, `filter()`, `find()`, etc., the function that we are passing in is a callback function. It's "called back" by the method at some point.
 
-Now, let's move onto the array methods.
+Now, let's move on to the array methods.
 
 ## 1. some()
 
@@ -23,7 +21,7 @@ console.log(hasNegativeNumbers); // prints: false
 
 ```
 
-In this case, `num => num < 0` is our callback function. It uses [implicit return](https://domhabersack.com/implicit-return). One of JS features.
+In this case, `num => num < 0` is our callback function. It uses [implicit return](https://domhabersack.com/implicit-return), a JavaScript feature.
 
 ## 2. every()
 
@@ -78,5 +76,3 @@ console.log(includesTwo); // prints: true
 This one doesn't require a callback function; instead, you pass in the value you're searching for.
 
 In conclusion, JavaScript provides powerful built-in array methods that help you manipulate and work with arrays in an efficient manner. A key aspect to understand is the use of callback functions within these methods.
-
----

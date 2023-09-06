@@ -75,7 +75,7 @@ export default MyComponent;
 
 ## Styled-components
 
-Styled-components is a library for React and React Native that allows you to use component-level styles in your application that are written with a mixture of JavaScript and CSS. This approach enables full capabilities of CSS (like pseudo selectors) and the power of JavaScript to create dynamic styles.
+Styled-components is a library for React and React Native that allows you to use component-level styles in your application that are written with a mixture of JavaScript and CSS. This approach enables the full capabilities of CSS (like pseudo selectors) and the power of JavaScript to create dynamic styles.
 
 ```jsx
 import React from 'react';
@@ -97,4 +97,4 @@ export default MyComponent;
 
 ### Which one to use?
 
-On the beginning, while learning. Start with `Inline CSS` and as you progress try different styles like external style sheet and `StyledComponents`.
+In the beginning, while learning, start with `Inline CSS`, As you progress try different styles like external stylesheet and `StyledComponents`.

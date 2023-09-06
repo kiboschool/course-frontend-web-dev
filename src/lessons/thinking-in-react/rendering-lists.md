@@ -42,12 +42,12 @@ We can render this data as a list in React using the `map()` function as we've s
 
 ```jsx
 function PeopleList(props) {
-	const people = [
-	  { id: 1, name: 'Alice', age: 20 },
-	  { id: 2, name: 'Bob', age: 22 },
-	  { id: 3, name: 'Charlie', age: 23 },
-	  { id: 4, name: 'Dave', age: 24 }
-	];
+  const people = [
+    { id: 1, name: 'Alice', age: 20 },
+    { id: 2, name: 'Bob', age: 22 },
+    { id: 3, name: 'Charlie', age: 23 },
+    { id: 4, name: 'Dave', age: 24 }
+  ];
 
   const listItems = people.map((person) =>
     <li key={person.id}>
@@ -60,4 +60,4 @@ function PeopleList(props) {
 }
 ```
 
-In this example, we're displaying each person's name and age in the list item. Each list item has a unique key — the person's id. The `PeopleList` component is then rendered to the root DOM node with the people array passed as a prop.
+In this example, we're displaying each person's name and age in the list item. Each list item has a unique key — the person's ID. The `PeopleList` component is then rendered to the root DOM node with the people array passed as a prop.

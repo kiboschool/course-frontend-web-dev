@@ -16,7 +16,7 @@ fetch("http://api.com").then(() => { console.log("my results") } )
 
 If yes, you've done some asynchronous programming. But what is it exactly?
 
-## What is Asynchrony?
+## What Does Asynchronous Mean?
 
 To further understand the concept of asynchronous programming, let's draw a comparison to real-life conversations. Consider **two types of conversation**: `synchronous` (like a phone call or face-to-face conversation) and `asynchronous` (like an email exchange).
 

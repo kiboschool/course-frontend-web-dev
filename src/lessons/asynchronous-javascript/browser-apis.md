@@ -1,6 +1,6 @@
 # Browser APIs
 
-Modern web browsers are a treasure trove of features and functionalities that extend far beyond mere page viewing capabilities. Much of this functionality is provided through a variety of built-in APIs, which allow developers to tap into and utilize the browser's built-in features.
+Modern web browsers are a treasure trove of features and functionalities that extend far beyond mere page-viewing capabilities. Much of this functionality is provided through a variety of built-in APIs, which allow developers to tap into and utilize the browser's built-in features.
 
 ## What are Browser APIs?
 
@@ -94,6 +94,6 @@ In this example, we have two buttons controlling the playback of an audio file. 
 
 ### More Browser APIs?
 
-Full list of available Browser APIs is here:
+A full list of available Browser APIs is here:
 
 [https://developer.mozilla.org/en-US/docs/Web/API](https://developer.mozilla.org/en-US/docs/Web/API)

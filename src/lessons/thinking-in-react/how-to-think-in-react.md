@@ -41,17 +41,17 @@ This function is a valid React component because it accepts a single "props" obj
 
 ```jsx
 function App(){
-	return <div>
-				<Welcome />
-				<Welcome />
-				<Welcome />
-	</div>
+  return <div>
+    <Welcome />
+    <Welcome />
+    <Welcome />
+  </div>
 }
 ```
 
-## Real World Examples of Components
+## Real-World Examples of Components
 
-Almost every website you interact with daily is built using some form of components. For instance, a website may have a `Navbar` component for navigation, a `Footer` component for the website's footer, a `User` component to display user information, and so on.
+Almost every website you interact with daily is built using some combination of components. For instance, a website may have a `Navbar` component for navigation, a `Footer` component for the website's footer, a `User` component to display user information, and so on.
 
 Here is an example of how a news website could be broken down into components:
 

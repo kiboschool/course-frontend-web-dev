@@ -6,10 +6,11 @@ In this week, we will dive into some of the more advanced features of JavaScript
 
 Collaboration is a vital part of any development project. We will explore how to effectively collaborate using Git and GitHub. You'll learn about branching, merging changes, and resolving conflicts - all essential skills for team-based development.
 
-Finally, we'll delve into the world of data formats. JSON and XML are two of the most common data formats used in web development for storing and exchanging data. We'll learn how to work with these formats, and apply this knowledge to a real-world project.
+Finally, we'll delve into the world of data formats. JSON and XML are two of the most common data formats used in web development for storing and exchanging data. We'll learn how to work with these formats and apply this knowledge to a real-world project.
 
 Get ready for an exciting week of learning and building!
-## Learning Outcomes
+
+### Learning Outcomes
 
 - Use advanced array methods like `map`, `filter`, `reduce`, `forEach`, and `sort` to manipulate data
 - Create dynamic, responsive layouts using CSS Flexbox

@@ -1,7 +1,6 @@
 # Introduction
 
-Let's start by distinguishing between this 3 languages, how do they look like and what do they do.
-
+Let's start by distinguishing between these three languages, how they look like, and what they do.
 
 ## What are HTML, CSS, and JS?
 
@@ -9,15 +8,15 @@ Let's start by distinguishing between this 3 languages, how do they look like an
 
 So in summary:
 
-- HTML gives structure to a web site. (like what would be the order of an element)
-- CSS makes it pretty (like what would it be color of my elements)
+- HTML gives structure to a website. (like what would be the order of an element)
+- CSS makes it pretty (like the color of my elements)
 - JS makes it interactive (what happens if I click a button)
 
 ## Why Learn JavaScript?
 
-Although this course is focused for web applications, many of the principles can be used for other platforms. JavaScript is a very powerful programming language that, with the right tools, it could allow you to create [mobile apps](https://reactnative.dev/), [desktop apps](https://www.electronjs.org/es/), [program robots](https://www.bouvet.no/bouvet-deler/utbrudd/learning-javascript-and-arduino-programming-with-johnny-five) or [create powerful back ends](https://expressjs.com/). 
+Although this course is focused on web applications, many of the principles can be used for other platforms. JavaScript is a very powerful programming language that, with the right tools, could allow you to create [mobile apps](https://reactnative.dev/), [desktop apps](https://www.electronjs.org/es/), [program robots](https://www.bouvet.no/bouvet-deler/utbrudd/learning-javascript-and-arduino-programming-with-johnny-five) or [create powerful back ends](https://expressjs.com/). 
 
-Not to mention it's [one of the most](https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/) demanded programming languages for professional job opportunities and it's easy-to-learn syntax, it was the obvious choice when choosing a programming  language for writing WebApplications. Even with interesting alternatives like [Dart](https://dart.dev/) or [Web Assembly](https://webassembly.org/), JavaScript still the number choice for every thing related to front end programming.
+Not to mention it's [one of the most](https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/) demanded programming languages for professional job opportunities and it's easy-to-learn syntax, it was the obvious choice when choosing a programming language for writing web applications. Even with interesting alternatives like [Dart](https://dart.dev/) or [Web Assembly](https://webassembly.org/), JavaScript is still the number one choice for everything related to front end programming.
 
 ## Can I Use My Python knowledge in JavaScript
 
@@ -101,15 +100,3 @@ Yes, in the next lessons, we will cover the basics of javascript, but keep the f
 - [CSS  (Web Foundations)](https://wf-2.vercel.app/web-foundations-july-2022/foundations/css-selectors-and-properties.html)
 - [Figma (Project Management & Design)](https://pm-and-design.vercel.app/lessons/ui-design-basics/introduction-to-Figma.html)
 - [UI Design (Project Management & Design)](https://pm-and-design.vercel.app/lessons/ui-design-basics/basic-principles.html)
-
-## Translating from Design to Code
-
-TODO
-
-## Accessing the JavaScript Console
-
-TODO
-
-# Out
-
-TODO

@@ -1,7 +1,5 @@
 # Advanced Array Methods 1
 
----
-
 As you may already know from your Python experience, arrays (or lists in Python) are a fundamental aspect of any programming language, and JavaScript is no exception. JavaScript has built-in array methods that can be used to manipulate and work with data effectively.
 
 In this first section, we'll delve into the essential methods: `forEach()`, `map()`, `filter()`, `reduce()`, and `sort()`.
@@ -67,5 +65,3 @@ console.log(numbers); // prints: [1, 2, 3, 10, 21]
 In this case, we have sorted the numbers in ascending order. The compare function `(a, b) => a - b` is needed to sort the numbers correctly. Without it, JavaScript would convert numbers to strings and then sort lexicographically, which could give unexpected results.
 
 In summary, JavaScript provides several built-in array methods that can be used for manipulating and working with arrays. If you're coming from Python, many of these methods should feel familiar, but with a JavaScript twist. Next, we'll explore some of the more advanced array methods, so stay tuned!
-
----

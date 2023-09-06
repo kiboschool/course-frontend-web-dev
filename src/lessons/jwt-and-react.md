@@ -1,6 +1,6 @@
 # JWT, Auth React
 
-**Introduction to Week 8: JWT and React**
+## Introduction to Week 8: JWT and React
 
 Welcome to Week 8,  we'll start by discussing the concept of authentication flows and how they work in a modern web application. We'll then specifically focus on JWT, exploring what it is, how it works, and why it's beneficial for managing user sessions in web applications.
 
@@ -8,7 +8,7 @@ We'll examine the idea of protected routes in a React application and see how we
 
 The week culminates in a hands-on exercise that allows you to put into practice the concepts you've learned, followed by a project where you'll implement JWT authentication and protected routes in a React application.
 
-## Learning Objectives**
+### Learning Objectives
 
 By the end of this week, you will be able to:
 

@@ -28,8 +28,8 @@ React has gained significant popularity among developers and companies worldwide
 
 1. **Easy to Learn and Use**: If you already know JavaScript, picking up React can be straightforward. Its component-based approach can be easily grasped and allows for the creation of complex user interfaces from simple, isolated pieces of code.
 2. **Reusable Components**: Components can be reused across different parts of an application, making development faster and the code more manageable.
-3. **Fast and Efficient**: The Virtual DOM allows React to update only the parts of the app that need to change when state updates, making it highly efficient.
+3. **Fast and Efficient**: The Virtual DOM allows React to update only the parts of the app that need to change when the state updates, making it highly efficient.
 4. **Strong Community and Rich Ecosystem**: React has a large and active community, which means that there are plenty of resources, such as tutorials and third-party libraries, available. It also implies better opportunities for getting help and support.
 5. **Backed by Facebook**: React is used in production at Facebook and Instagram, and it's actively maintained by Facebook, which gives developers confidence in its longevity and continued support.
 
-React, with its robust ecosystem, large community, and strong backing by Facebook, offers a great choice for developers looking to build modern, interactive web applications.
+React, with its robust ecosystem, large community, and strong backing from Facebook, offers a great choice for developers looking to build modern, interactive web applications.

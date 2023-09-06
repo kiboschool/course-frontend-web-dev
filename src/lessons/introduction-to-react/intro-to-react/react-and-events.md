@@ -73,7 +73,7 @@ function MyForm() {
 
 ```
 
-In the above example, the `handleChange` function  executes the console log every type I type in an input.
+In the above example, the `handleChange` function executes the console log every time I type.
 
 ### onSubmit
 

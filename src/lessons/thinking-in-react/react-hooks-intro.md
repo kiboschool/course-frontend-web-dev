@@ -1,6 +1,6 @@
 # Introduction to React Hooks
 
-React Hooks are a significant feature introduced in the 16.8 version of React. They allow you to use state and other React features without writing a class component. They essentially let you `"hook into"` React state and lifecycle methods from function components. Prior to the introduction of hooks, these features were only available in class components, but hooks have enabled developers to write concise and readable code with function components.
+React Hooks are a significant feature introduced in the 16.8 version of React. They allow you to use state and other React features without writing a class component. They essentially let you `"hook into"` React state and lifecycle methods from function components. Before the introduction of hooks, these features were only available in class components, but hooks have enabled developers to write concise and readable code with function components.
 
 ## Why Do We Need Them?
 
@@ -64,4 +64,4 @@ Hooks begin with the word **'use'**, which helps developers identify them in the
 
     In the example above, `useEffect` is used to update the document title each time the `count` state is updated. The `useEffect` hook is a replacement for the `componentDidMount`, `componentDidUpdate`, and `componentWillUnmount` lifecycle methods in class components.
 
-You can build your own hooks and explore other hooks that are included on react, but we will explore that in future lessons.
+You can build your own hooks and explore other hooks that are included in React, but we will explore that in future lessons.

@@ -2,7 +2,7 @@
 
 In single-page applications, certain routes should **only** be accessible to users who are authenticated (logged in), and these are called protected routes.
 
-That means, in a React app, we will have some routes that will be only available to logged in users. (Like a profile detail page). The routing would look like this:
+That means, in a React app, we will have some routes that will be only available to logged-in users. (Like a profile detail page). The routing would look like this:
 
 ```jsx
 <BrowserRouter>

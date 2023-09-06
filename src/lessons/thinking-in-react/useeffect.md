@@ -1,6 +1,6 @@
 # useEffect
 
-## Using the useEffect Hook
+## Using the `useEffect` Hook
 
 The `useEffect` hook in React allows you to perform side effects in functional components. Side effects could be data fetching, subscriptions, or manually changing the DOM. The hook takes two arguments: a function that contains the side-effect logic, and an array of dependencies.
 
@@ -50,7 +50,7 @@ The dependency array in `useEffect` allows us to optimize when effects are run. 
 
 Remember, if your effect does not depend on any values from props or state, you should pass an empty array `[]`, and React will call your effect once and then never again. If your effect does depend on some values, ensure they are included in the dependency array to instruct React to re-run the effect when these values change. Not doing so can lead to stale data and unwanted behaviors in your application.
 
-## How does it look like in my components?
+## How does it look in my components?
 
 Here's a simple example showing how you might use `useEffect`:
 
@@ -65,13 +65,13 @@ function ExampleComponent() {
       .then(response => response.json())
       .then(data => setData(data));
 
-			// this function executes only once, on after component mounts, note the empty dependency array [] down this line
+      // this function executes only once, on after component mounts, note the empty dependency array [] down this line
   }, []);
 
   useEffect(() => {
     if (data) {
       console.log('Data updated!');
-			// this function executes only when the data ( state defined above changes , note the dependency array with data variable as dependency [data])
+      // this function executes only when the data ( state defined above changes , note the dependency array with data variable as dependency [data])
     }
   }, [data]);
 

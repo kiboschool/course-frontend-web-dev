@@ -1,6 +1,6 @@
 # Deploying to GitHub Pages
 
-While developing your applications, it's crucial to have a reliable and accessible way to share your projects with the world. For static sites (composed of HTML, CSS, and JS), one great option is GitHub Pages. 
+While developing your applications, it's crucial to have a reliable and accessible way to share your projects with the world. For static sites (composed of HTML, CSS, and JS), one great option is GitHub Pages.
 
 This article will guide you through the process of deploying your static website to GitHub Pages.
 

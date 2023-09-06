@@ -1,6 +1,6 @@
 # Collaborative Github
 
-While you might know already how to work on Github and it's workflow. While working with other developers it might be a bit tricky: Forking repositories, solving merge conflicts, and creating a PR are topics that might be new:
+While you might know already how to work on GitHub and its workflow. While working with other developers it might be a bit tricky: Forking repositories, solving merge conflicts, and creating a PR are topics that might be new:
 
 Here are 2 videos about this topic:
 

@@ -1,7 +1,9 @@
-# Project: Covid 19 Data Dashboard
+# Project: Covid-19 Data Dashboard
 
 ## 0. Project set-up
+
 Get your starter code and project set up [here](https://classroom.github.com/a/GCkMCAGH)
+
 ## 1. Project Summary
 
 In this project, you will build an interactive data dashboard that provides meaningful insights into the COVID-19 pandemic based on given data. The dashboard will display data related to cases, deaths, and recoveries, and allow users to filter and sort this data by country or date.
@@ -20,7 +22,7 @@ The COVID-19 data dashboard will consist of the following features:
 
 - **Display Total Statistics:** Show the total cases, deaths, and recoveries for a specific set of countries.
 - **Filter by Country:** Allow users to type a country name in an input field to view its data.
-- **Filter by Date:** Allow users to select a month or a year to view data specific to that time period.
+- **Filter by Date:** Allow users to select a month or a year to view data specific to that period.
 - **Sort by Cases, Deaths, Recoveries:** Allow users to sort the data based on the number of cases, deaths, or recoveries.
 
 Your aim is not only to write functional code but also to create a user-friendly and visually appealing dashboard. Be creative!
@@ -39,7 +41,7 @@ Your aim is not only to write functional code but also to create a user-friendly
 ### Milestone 3: Implement Date Filter
 
 - Add buttons or a dropdown menu to allow users to select a month or a year.
-- Display data for the selected time period when a valid date is chosen.
+- Display data for the selected period when a valid date is chosen.
 
 ### Milestone 4: Implement Sorting
 
@@ -51,7 +53,7 @@ Your aim is not only to write functional code but also to create a user-friendly
 
 ## 5. Workspace Setup and Resources
 
-We'll provide the JSON data, which includes information about the COVID-19 pandemic for 20 countries over a 12-month period.
+We'll provide the JSON data, which includes information about the COVID-19 pandemic for 20 countries over 12 months.
 
 ## 6. Delivery
 

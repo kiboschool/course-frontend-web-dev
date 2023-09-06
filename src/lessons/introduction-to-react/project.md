@@ -1,6 +1,7 @@
 # Project: Weather Dashboard
 
-## Project set-up
+## Project Set-up
+
 Grab your starting code and link [here](https://classroom.github.com/a/g-VhoJds)
 
 ## Project Description
@@ -11,11 +12,11 @@ The dashboard will display the following:
 
 - Current city.
 - Current day and time.
-- Current weather condition in text format (e.g., Cloudy, Sunny, Rainy).
+- Current weather conditions in text format (e.g., Cloudy, Sunny, Rainy).
 - Current humidity level.
-- Weather forecast for the next few days. (if clicking on a specific day, **display an alert** what will show more detailed info about this day's weather)
+- Weather forecast for the next few days. (If clicking on a specific day, **display an alert** will show more detailed info about this day's weather.)
 
-You will be making use of various React concepts you've learned such as components, jsx, css and events
+You will be making use of various React concepts you've learned such as components, jsx, css, and events
 
 ## Learning Objectives
 
@@ -33,11 +34,11 @@ By the end of this project, students should be able to:
 
 ### Milestone 1: Project Setup
 
-Explore the folder we provide you with the boiler plate code, install dependencies and run the project (in local host)
+Explore the folder we provide you with the boilerplate code, install dependencies, and run the project (in the local host)
 
 ### Milestone 2: Create Static Components
 
-Create the static version of the app. 
+Create the static version of the app.
 
 It should contain the following  components:
 
@@ -47,4 +48,4 @@ This info is static on should not change.
 
 ### Milestone 3: Add CSS
 
-Finally add some styles using your prefered method.
+Finally, add some styles using your preferred method.

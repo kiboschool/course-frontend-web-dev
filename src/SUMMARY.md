@@ -31,7 +31,7 @@
   - [Events](lessons/javascript-review/events.md)
     - [What is an Event?](lessons/javascript-review/events/what-is-an-event.md)
     - [Types of Events](lessons/javascript-review/events/types-of-events.md)
-    - [Accessing to the event information](lessons/javascript-review/events/accessing-to-the-event-information.md)
+    - [Accessing  Event Information](lessons/javascript-review/events/accessing-to-the-event-information.md)
     - [Exercises](lessons/javascript-review/events/exercises.md)
   - [Project](lessons/javascript-review/project.md)
 
@@ -96,16 +96,16 @@
     - [Global State](lessons/state-management/advanced-state-managment/global-state.md)
     - [React Context](lessons/state-management/advanced-state-managment/react-context.md)
     - [React Query](lessons/state-management/advanced-state-managment/react-query.md)
-    - [useReducer](lessons/state-management/advanced-state-managment/usereducer.md)
+    - [`useReducer`](lessons/state-management/advanced-state-managment/usereducer.md)
     - [Other Global State Libraries](lessons/state-management/advanced-state-managment/other-global-state-libraries.md)
     - [State in URLs](lessons/state-management/advanced-state-managment/state-in-url.md)
   - [Project](lessons/state-management/project.md)
 
-- [JWT, Auth and React](lessons/jwt-and-react.md)
+- [JWT, Auth, and React](lessons/jwt-and-react.md)
   - [Introduction to Auth Flows](lessons/jwt-and-react/auth-flows-intro.md)
   - [What is JWT](lessons/jwt-and-react/what-is-jwt.md)
   - [Protected Routes](lessons/jwt-and-react/protected-routes.md)
-  - [JWT, Auth and React](lessons/jwt-and-react/jwt-and-react.md)
+  - [JWT, Auth, and React](lessons/jwt-and-react/jwt-and-react.md)
   - [Exercise](lessons/jwt-and-react/exercise.md)
   - [Project](lessons/jwt-and-react/project.md)
 

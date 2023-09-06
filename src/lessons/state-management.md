@@ -1,6 +1,6 @@
 # State Management
 
-**Welcome to Week 7: State Management**
+## Welcome to Week 7: State Management
 
 Welcome to Week 7, a crucial stage in your journey as we explore the ins and outs of State Management in React applications. This week, we'll delve into managing state at various levels, starting from component-level state to global state that is shared across the entire app.
 
@@ -10,7 +10,7 @@ Our focus will then shift to advanced state management topics. We'll talk about 
 
 At the end of the week, we'll put theory into practice with a project, where you will apply what you've learned about state management in a real-world context.
 
-## Learning objectives
+### Learning objectives
 
 By the end of this week, you will be able to:
 
@@ -19,7 +19,7 @@ By the end of this week, you will be able to:
 * Use global state to share data across multiple components
 * Understand and use React Context to provide and consume global state
 * Use React Query to fetch, cache, and update data in your React apps
-* Use the useReducer hook to handle complex state logic in React components
+* Use the `useReducer` hook to handle complex state logic in React components
 * Know other global state libraries available for managing state in React applications
 * Understand how to encode state in URLs and why it's useful
 * Apply all these concepts about state management in a hands-on project.

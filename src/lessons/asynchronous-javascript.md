@@ -1,6 +1,6 @@
 # Asynchronous JavaScript
 
-**Welcome to Week 6: Asynchronous JavaScript**
+## Welcome to Week 6: Asynchronous JavaScript
 
 Welcome to Week 6, where we dive into the world of Asynchronous JavaScript. This topic is crucial for understanding how JavaScript interacts with activities that take time to complete, such as fetching data from a server, writing to a database, or performing complex computations.
 
@@ -12,7 +12,7 @@ We'll also explore the process of calling APIs, an essential part of almost ever
 
 The week will culminate with a project, where you'll apply your understanding of asynchronous programming in a real-world scenario.
 
-**Learning Objectives**
+### Learning Objectives
 
 By the end of this week, you will be able to:
 

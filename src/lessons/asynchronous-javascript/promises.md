@@ -32,7 +32,7 @@ Hard to say what is happening in what order. There might be a better way.
 
 Promises were introduced to JavaScript as a solution to the "callback hell" problem. A Promise represents the eventual result of an asynchronous operation. It is an object that might return a value at some point in the future, or it might throw an error if the operation fails.
 
-The previous example rewritten with promises:
+The previous example was rewritten with promises:
 
 ```jsx
 getData('data.txt')

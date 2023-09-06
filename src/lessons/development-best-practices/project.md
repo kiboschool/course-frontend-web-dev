@@ -1,6 +1,6 @@
 # Project: Encrypt and Decrypt
 
-## 0. Project set-up
+## 0. Project Set-up
 Get your starter code and project set up [here](https://classroom.github.com/a/d6Fdc2aJ)
 
 ## 1. Introduction
@@ -111,8 +111,8 @@ The boilerplate we provide contains this structure:
 - `index.html`: This is the entry point to your application. It should include the HTML inputs for the text to be encoded, offset and result.
 - `css/style.css`: This file should contain the style rules. We want you to write your own rules, which is why the use of CSS frameworks (Bootstrap, Materialize, etc.) is NOT allowed.
 - `js/cipher.js`: Here you must implement the `cipher` object, this object (`cipher`) must contain two methods:
-    - `cipher.encode(offset, string)`: `offset` is the number of positions we want to move to the right in the alphabet, and `string` is the message (text) we want to encrypt.
-    - `cipher.decode(offset, string)`: `offset` is the number of positions we want to move to the left in the alphabet, and `string` is the message (text) we want to decrypt.
+  - `cipher.encode(offset, string)`: `offset` is the number of positions we want to move to the right in the alphabet, and `string` is the message (text) we want to encrypt.
+  - `cipher.decode(offset, string)`: `offset` is the number of positions we want to move to the left in the alphabet, and `string` is the message (text) we want to decrypt.
 - `main.js`: Here you must listen to DOM events, invoke `cipher.encode()` or `cipher.decode()` as necessary, and update the result in the UI.
 - `test/cipher.spec.js`: This file contains some example tests, and here you will have to implement the tests for `cipher.encode()` and `cipher.decode()`.
 
@@ -123,6 +123,5 @@ The boilerplate we provide contains this structure:
 1. 📦 Install project dependencies with the `npm install` command. This assumes you have installed [Node.js](https://nodejs.org/) (which includes [npm](https://docs.npmjs.com/)).
 2. If everything has gone well, you should be able to run the unit tests with the `npm test` command.
 3. To view your program's interface in the browser, use the `npm dev` command to start the web server and go to `http://localhost:5173` in your browser.
-4. Let's get coding! 
+4. Let's get coding!
 5. This project was built using [Vite](https://vitejs.dev/), check it out if you find any weird commands (like `build` in package.json)
-

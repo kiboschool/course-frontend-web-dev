@@ -38,7 +38,7 @@ function LoginForm() {
 }
 ```
 
-## Step 2: Post login information to API
+## Step 2: Post login information to the API
 
 Upon form submission, the app should post the username and password to the API.
 

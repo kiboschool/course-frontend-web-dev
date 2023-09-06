@@ -1,6 +1,6 @@
 # Bonus: Clarifying ES6, ES2015, etc.
 
-In your JavaScript learning journey, you've probably the word ES5, ES6, ES2015. It's hard to get lost on all those concepts, so let's explain what they mean:
+In your JavaScript learning journey, you've probably seen ES5, ES6, ES2015. It's hard to get lost on all those concepts, so let's explain what they mean:
 
 JavaScript's development has been guided by a series of standards (and improvements) called ECMAScript (ES). Understanding the evolution of these standards can give us a deeper appreciation for the language as it exists today.
 
@@ -27,7 +27,7 @@ After a ten-year hiatus, ES5 was released with several critical additions:
 - "Strict Mode": An opt-in mode that tightens the language's rules to catch more errors during development.
 - Accessor properties: Getters and setters for object properties.
 - Array methods: New ways to manipulate arrays, such as `map`, `filter`, `reduce`, and `forEach`.
-- JSON support: Native parsing and stringifying for JSON data.
+- JSON support: Native parsing and string-ifying for JSON data.
 
 ## ES6 / ES2015 (2015)
 

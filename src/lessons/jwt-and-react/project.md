@@ -1,7 +1,9 @@
 # Project
 
-## Project set-up
+## Project Set-up
+
 Get your starter code [here](https://classroom.github.com/a/uHgwUWNy)
+
 ## Project Description
 
 In this project, you will refactor your Pokedex application by implementing an authentication flow using JSON Web Tokens (JWT). Only authenticated users should be able to access the Pokedex app. You will use React and a mock API endpoint for user authentication and management of user sessions.
@@ -16,7 +18,7 @@ In this project, you will refactor your Pokedex application by implementing an a
 
 ## Project Milestones
 
-Using the previous project as guide, implement the following milestones in your pokemon app.
+Using the previous project as a guide, implement the following milestones in your Pokemon app.
 
 1. **Creating Login Logic**: Implement the function to send a `POST` request with the email and password from your form to authenticate users. The authentication server only responds to two sets of credentials:
 
@@ -30,8 +32,8 @@ password: 098098
 ```
 
 1. **Implementing Protected Routes**: Implement a protected route for the Pokedex app that only allows access to authenticated users.
-2. **Managing Global State with Context**: Use React Context to manage the global state of your application (JWT, pokemon list, selected pokemon, etc)
-3. **Logout Functionality**: Implement a logout feature in the `NavBar.jsx` that should remove the JWT token and deauthenticate the user, subsequently revoking access to the Pokedex app.
+2. **Managing Global State with Context**: Use React Context to manage the global state of your application (JWT, Pokemon list, selected Pokemon, etc.)
+3. **Logout Functionality**: Implement a logout feature in the `NavBar.jsx` that should remove the JWT token and de-authenticate the user, subsequently revoking access to the Pokedex app.
 
 ## Bonus Milestones
 

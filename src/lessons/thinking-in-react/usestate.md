@@ -1,8 +1,8 @@
-# useState
+# `useState`
 
 ## Understanding the `useState` Hook
 
-The `useState` [hook](https://react.dev/reference/react) (we will go deeper in hooks a un future lessons) is a function that lets you add React state to your functional components. 
+The `useState` [hook](https://react.dev/reference/react) (we will go deeper into hooks a un future lessons) is a function that lets you add React state to your functional components. 
 
 Here is a simple counter component that uses the `useState` hook:
 

@@ -2,7 +2,7 @@
 
 ---
 
-In JavaScript, when an event is triggered, it creates an `Event` object that contains information related to that event. This object is automatically passed as the first argument to your event handler function, typically represented by `event` or `e`. 
+In JavaScript, when an event is triggered, it creates an `Event` object that contains information related to that event. This object is automatically passed as the first argument to your event handler function, typically represented by `event` or `e`.
 
 ## The Event Object
 

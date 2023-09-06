@@ -28,7 +28,7 @@
 
 7. Create Protected Routes.
 
-    Use React Router to create protected routes. These routes should only be accessible if a user is authenticated (i.e., if a JWT exists).
+    Use React Router to create protected routes. These routes should only be accessible if a user is authenticated (i.e. if a JWT exists).
 
 8. Logout Functionality.
 

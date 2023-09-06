@@ -84,9 +84,9 @@ console.log(calculateArea(radius));            // 78.53981633974483
 // You can also add event listeners here
 
 document.querySelector("#calculate-button").addEventListener("click", ()=>{
-	const radius = document.querySelector('#radius-input').value
-	const area = calculateArea(radius)
-	document.querySelector('area-output').innerHTML = area;
+    const radius = document.querySelector('#radius-input').value
+    const area = calculateArea(radius)
+    document.querySelector('area-output').innerHTML = area;
 })
 ```
 
@@ -160,7 +160,7 @@ To run your application in development mode, use the `vite` command:
 npx vite
 ```
 
-And to build your application for production, use the `vite build` command:
+To build your production application, use the `vite build` command:
 
 ```bash
 npx vite build

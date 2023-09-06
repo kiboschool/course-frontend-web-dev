@@ -24,9 +24,9 @@ import React, { useEffect } from 'react';
 
 function App() {
 
-	useEffect(() => {
-	  console.log("I mounted")
-	}, []);
+    useEffect(() => {
+      console.log("I mounted")
+    }, []);
 
   return <h1>Hello, world!</h1>;
 }
@@ -34,9 +34,9 @@ function App() {
 export default App;
 ```
 
-Now run the project in your browser and open the console. You will notice a log that says `I mounted`, that is, because with the useEffect hook we are adding the capability to our component to access the lifecycle and do operations before, during or after is created.
+Now run the project in your browser and open the console. You will notice a log that says `I mounted`, that is because using the `useEffect` hook, we are adding the capability to our component to access the lifecycle and do operations before, during, or after it is created.
 
-We will explore more about this new methods in future lessons.
+We will explore more about these new methods in future lessons.
 
 ## Why Do We Need Lifecycle Methods?
 

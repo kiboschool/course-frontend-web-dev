@@ -1,10 +1,10 @@
 # Calling APIs
 
-Having a strong understanding of asynchronous programming in JavaScript is foundational to successfully making API calls. In fact, the fetch API, which you may have used before, is a perfect example of an asynchronous operation. This time, we are going to explore in detail how it works and what does it do.
+Having a strong understanding of asynchronous programming in JavaScript is foundational to successfully making API calls. The `fetch` API, which you may have used before, is a perfect example of an asynchronous operation. This time, we are going to explore in detail how it works and what does it do.
 
 ## What is an API?
 
-In the context of web development, an API is essentially a set of rules and protocols that **defines how software applications should interact with each other**. APIs allow us to use functions and data from other applications without needing to understand their underlying codebase.
+In the context of web development, an API is essentially a set of rules and protocols that **define how software applications should interact with each other**. APIs allow us to use functions and data from other applications without needing to understand their underlying codebase.
 
 ![Untitled](./calling-apis/untitled.png)
 
@@ -14,7 +14,7 @@ For instance, a weather app on your phone might use the API of a weather service
 
 ## Making API Calls in JavaScript
 
-JavaScript provides several ways to interact with APIs and fetch data, such as using the `fetch` API, XMLHttp requests, or libraries like Axios. But for simplicity, we'll focus on the `fetch` API (this api is provided by the browser)
+JavaScript provides several ways to interact with APIs and fetch data, such as using the `fetch` API, XMLHttp requests, or libraries like Axios. But for simplicity, we'll focus on the `fetch` API (this is provided by the browser)
 
 The fetch API is built into most modern browsers and provides a powerful, flexible method for fetching resources asynchronously across the network. The `fetch()` method returns a Promise that resolves to the Response object representing the response to the request.
 

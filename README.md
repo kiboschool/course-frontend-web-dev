@@ -1,4 +1,4 @@
-# Frontend Web Development
+# Front End Web Development
 
 - Course design plan: https://docs.google.com/document/d/12bjmNy7qyx9BYh7WYcKgVkpHMeRoT1kJrT2Uah808vE/edit
 - See course info: https://docs.google.com/document/d/1-xkpdJNIvzVTJnE-t3poEOEyxaTeaQvlJqTXbSFfRzs/edit#heading=h.xfofsp2yit4z

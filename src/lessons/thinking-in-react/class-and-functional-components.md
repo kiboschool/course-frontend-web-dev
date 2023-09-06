@@ -35,8 +35,8 @@ The primary differences between functional and class components come down to syn
 2. **State and Lifecycle Methods:** Before React 16.8, class components were the only way to have local state and lifecycle methods. Now, with React Hooks, functional components can also use state and mimic lifecycle behavior.
 3. `this` Keyword: In class components, the `this` keyword is used to access props, state, and methods. This can be confusing for JavaScript beginners. Functional components don’t require the `this` keyword
 
-## When to Use Functional Components vs Class Components
+## When to Use Functional Components vs. Class Components
 
 With the addition of Hooks, functional components can do everything class components can do and more. Therefore, many developers prefer functional components for most cases due to their simplicity and conciseness.
 
-In our class, we will use most of the time Functional components.
+In our class, we will use most of the time functional components.

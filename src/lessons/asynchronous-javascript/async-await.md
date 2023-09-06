@@ -6,7 +6,7 @@ JavaScript has introduced `async`/`await` syntax that allows us to write asynchr
 
 Async/Await is a syntactic sugar on top of Promises, which makes asynchronous code look and behave a little more like synchronous code. This syntactic sugar leads to asynchronous, non-blocking code that appears a lot like synchronous, blocking code. This makes the code cleaner and easier to understand.
 
-Async/Await is built on top of Promises. An async function always returns a Promise, and the resolve value of this Promise will be whatever you return from the function. The keyword `await` makes JavaScript wait until that Promise settles and returns its result.
+Async/Await is built on top of Promises. An async function always returns a Promise, and the resolved value of this Promise will be whatever you return from the function. The keyword `await` makes JavaScript wait until that Promise settles and returns its result.
 
 ## How to use Async/Await?
 

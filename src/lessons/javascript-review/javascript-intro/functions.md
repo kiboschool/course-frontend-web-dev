@@ -1,6 +1,6 @@
 # Functions
 
-If you're coming from a Python background, you're likely already familiar with the concept of functions - reusable blocks of code designed to perform a certain task. JavaScript functions operate on the same principle, but with some differences in terms of syntax and behavior. Let's delve into it.
+If you're coming from a Python background, you're likely already familiar with the concept of functions - reusable blocks of code designed to perform a certain task. JavaScript functions operate on the same principle but with some differences in terms of syntax and behavior. Let's delve into it.
 
 ## Function Declaration
 

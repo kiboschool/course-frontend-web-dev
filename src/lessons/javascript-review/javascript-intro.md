@@ -8,6 +8,6 @@ Next, we'll learn about variables. Think of them as small boxes where we can sto
 
 After that, we'll go into how we can use conditionals and loops to control what our code does and how many times it does it. We'll then see how functions let us group code together to use again and again.
 
-We'll also talk about some more complex ways to store data using arrays and objects. 
+We'll also talk about some more complex ways to store data using arrays and objects.
 
 Finally, we'll have a quick chat about different versions of JavaScript, like ES6 and ES2015. We'll wrap up with some questions to test what you've learned. Let's dive in!

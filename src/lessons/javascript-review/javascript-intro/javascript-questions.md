@@ -1,6 +1,6 @@
 # JavaScript Questions
 
-The following questions, can be used as a guide to direct your learning. **They are not mandatory**
+The following questions can be used as a guide to direct your learning. **They are not mandatory**
 
 ## Variables
 

@@ -16,11 +16,11 @@ function Greeting(props) {
 }
 
 function App() {
-	return <div>
-		<Greeting name="Emmanuel" />
-		<Greeting name="Michael" />
-		<Greeting name="Kodi" />
-	</div>
+  return <div>
+    <Greeting name="Emmanuel" />
+    <Greeting name="Michael" />
+    <Greeting name="Kodi" />
+  </div>
 }
 
 /***
@@ -39,7 +39,7 @@ Props are fundamental to the concept of components in React. They allow us to:
 
 1. **Pass data** from parent components to child components.
 2. **Increase reusability** of components. With props, we can write a single component and then reuse it with different data.
-3. **Improve readability** of our codebase. We can  know what a component does by just looking at the props name.
+3. **Improve readability** of our codebase. We can know what a component does by just looking at the props name.
 
 ## How to Use Props in React Components
 

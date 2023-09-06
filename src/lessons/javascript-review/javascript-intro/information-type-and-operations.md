@@ -12,24 +12,24 @@
 
 Computers handle billions of bits. To make it easier to manage large amounts of bits, we can divide them into "pieces" that represent pieces of information. In a JavaScript environment, these pieces are called ***values***. Each *value* has a *data type* that determines its role. In JavaScript, there are five (5) primitive data types:
 
-1. `number` 
+1. `number`
 2. `string` (text).
-3. `boolean` 
-4. `undefined` 
-5. `null` 
+3. `boolean`
+4. `undefined`
+5. `null`
 
 > These values are called primitives because they allow the [creation of other values](https://en.wikipedia.org/wiki/Primitive_data_type). i.e if you add 2 numbers, you get a new number. But what happens if you add two strings? `🤔`
-> 
+>
 
-Worth mentioning that every programming language was it's own primitives. [Python has 4](https://www.datacamp.com/tutorial/data-structures-python). [Java has 8](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html). They allow us to organize information and determine how the program should run. In this lesson, you will learn how to define and manipulate these types of data.
+Worth mentioning that every programming language has its primitives. [Python has 4](https://www.datacamp.com/tutorial/data-structures-python). [Java has 8](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html). They allow us to organize information and determine how the program should run. In this lesson, you will learn how to define and manipulate these types of data.
 
-We are going to make operations with this primitive values to create new information. Adding a number. Organising a text, etc
+We are going to make operations with these primitive values to create new information. Adding a number. Organizing a text, etc
 
 ## 1. Numbers
 
 Values of type `number` are, unsurprisingly, numerical values. That is, pieces of data that represent numerical information are represented with the `number` type. This includes positive and negative numbers, integers, and decimals. In addition, the `number` data type has three symbolic values: `+Infinity`, `-Infinity`, and `NaN` (not-a-number).
 
-Let's see several examples. Open your console (remember writing `node` in your terminal) and write the following numbers. As you do so, the console returns the number back to you.
+Let's see several examples. Open your console (remember writing `node` in your terminal) and write the following numbers. As you do so, the console returns the number to you.
 
 ```jsx
 13// returns: 
@@ -121,7 +121,7 @@ typeof (2 > 3)// returns: "boolean"
 > typeof is an special command of Javascriot that will tell you what data type you have i.e typeof "hello”, will return string
 > 
 
-#### Differente between == and ===
+#### Difference between == and ===
 `==` and `===` are comparison operators, and they have a fundamental difference in the way they compare two values.
 
 1. **Double Equals (==)**: This is a loose equality comparison operator in JavaScript. It compares two values for equality, after performing any necessary type conversions. This means that if you are comparing a number and a string, JavaScript will attempt to convert the string to a number before making the comparison.
@@ -132,7 +132,7 @@ For example:
     console.log(true == 1); // true, because true is coerced to the number 1
 ```
 
-2. **Triple Equals (===)**: This is a strict equality comparison operator in JavaScript. It compares two values for equality, without performing any type conversions. If the types of the two values are different, it will always return `false`.
+2. **Triple Equals (===)**: This is a strict equality comparison operator in JavaScript. It compares two values for equality, without performing any type conversion. If the types of the two values are different, it will always return `false`.
 
 For example:
 ```javascript
@@ -171,7 +171,7 @@ The intention of NaN is to represent the result of a nonsensical calculation and
 
 There are also some operations that can be applied to `Booleans`. JavaScript supports three logical operators: *and*, *or*, and *not*. These can be used to "reason" with `Booleans`.
 
-The `&&` operator represents the *and* logical operation. It is a binary operator, and its result is *true* only if both given values are true. The `||` operator denotes the *or* logical operation. It returns true if either of the two given values are true. *Not* (Negation) is written as an exclamation point `!`. It is a binary operator that flips the value it is given; !true produces false and !false produces true. Let's see some examples:
+The `&&` operator represents the *and* logical operation. It is a binary operator, and its result is *true* only if both given values are true. The `||` operator denotes the *or* logical operation. It returns true if either of the two given values are true. *Not* (Negation) is written as an exclamation point `!`. It is a binary operator that flips the value it is given; !true produces false and `!false` produces true. Let's see some examples:
 
 ```jsx
 true && true// returns: true
@@ -195,10 +195,10 @@ This is called the conditional operator (or sometimes the ternary operator since
 
 ## 4. Null and Undefined
 
-There are two special values, `null` and `undefined`, which are used to denote the absence of a significant value. They are values in themselves, but they do not have any information. Many operations in the language that do not produce a meaningful value (you will see this later) produce `undefined` simply because they have to produce some value.
+There are two special values, `null` and `undefined`, which are used to denote the absence of a significant value. They are values themselves, but they do not have any information. Many operations in the language that do not produce a meaningful value (you will see this later) produce `undefined` simply because they have to produce some value.
 
 The difference in meaning between `undefined` and `null` is a JavaScript design accident and does not matter most of the time.
 
-Understanding the difference between `undefined` and `null` (yes, there is a semantic difference) is important, and easier than it seems. Both values denote the absence of a value, but in one case, we could say that it is *intentional* (`null`) and in the other it is not (`undefined`).
+Understanding the difference between `undefined` and `null` (yes, there is a semantic difference) is important, and easier than it seems. Both values denote the absence of a value, but in one case, we could say that it is *intentional* (`null`), and in the other, it is not (`undefined`).
 
-The value `undefined` means that a value has not been assigned, as opposed to `null`, which means that we have assigned a null value. This can be very useful for differentiating states in asynchronous operations, ... it is common for `undefined` to mean that the operation has not yet completed, while `null` means that it has completed but returned a null value.
+The value `undefined` means that a value has not been assigned, as opposed to `null`, which means that we have assigned a null value. This can be very useful for differentiating states in asynchronous operations, ... it is common for `undefined` to mean that the operation has not yet been completed, while `null` means that it has completed but returned a null value.

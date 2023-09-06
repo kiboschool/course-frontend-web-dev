@@ -1,11 +1,12 @@
 # Project
 
-## 0. Project set-up
+## 0. Project Set-up
+
 Get your starter code and project set up [here](https://classroom.github.com/a/bLIQYHdv)
 
 ## 1. Preamble
 
-We will test what you've learned so far by building a Trivia. It will test your knowledge in HTML, CSS, and JS.
+We will test what you've learned so far by building a Trivia. It will test your knowledge of HTML, CSS, and JS.
 
 ![https://phandroid.s3.amazonaws.com/wp-content/uploads/2018/01/hq-trivia-android-screenshot.jpg](https://phandroid.s3.amazonaws.com/wp-content/uploads/2018/01/hq-trivia-android-screenshot.jpg)
 
@@ -61,7 +62,7 @@ Start by trying to make the simplest version of the trivia app.
 
 - 1 single screen.
 - 1 question with at least 3 possible answers each.
-- 1 button to see what is the right answer. (not to actually answer, just showing what answer is the correct one)
+- 1 button to see what is the right answer. (not to answer, just showing what answer is the correct one)
 
 ---
 
@@ -97,7 +98,7 @@ Add a simple welcome screen with the following elements and features:
 
 ### Milestone 5
 
-- Add a countdown with a time limit to answer each question. To achieve this, we leave you [a hint of javascript](https://javascript.info/settimeout-setinterval).
+- Add a countdown with a time limit to answer each question. To achieve this, we leave you [a hint of JavaScript](https://javascript.info/settimeout-setinterval).
 
 ## 7. Workspace and Complementary Readings
 

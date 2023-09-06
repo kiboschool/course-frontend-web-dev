@@ -103,4 +103,4 @@ In conclusion, transitioning from Python to JavaScript when dealing with variabl
 
 ---
 
-Remember, the differences aren't bad – they're simply different tools in your toolkit, each with their own best-use scenarios. Happy coding!
+Remember, the differences aren't bad – they're simply different tools in your toolkit, each with their best use-cases. Happy coding!

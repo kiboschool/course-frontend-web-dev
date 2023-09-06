@@ -16,7 +16,7 @@ Here are some benefits of JSX:
 
 In the project we just created
 
-### 1. Delete all the contents of App.jsx
+### 1. Delete all the contents of `App.jsx`
 
 ### 2. Writing Your Component
 
@@ -35,10 +35,10 @@ export default App;
 
 What this does is it defines a new function `App`, which becomes our component. This function returns what we want to display in the browser - in this case, an `h1` tag with the text `Hello, world!`.
 
-This is JSX! It looks like HTML, but it's actually JavaScript.
+This is JSX! It looks like HTML, but it's JavaScript.
 
 ### 3. Checking the Result
 
-If you now run your React app by typing `npm dev` in the terminal, you should see the text `Hello, world!` on your screen. 
+If you now run your React app by typing `npm dev` in the terminal, you should see the text `Hello, world!` on your screen.
 
 Congratulations, you've just written your first React component using JSX!

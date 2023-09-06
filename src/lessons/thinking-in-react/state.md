@@ -6,7 +6,7 @@ React's state is one of the essential concepts you'll need to understand to buil
 
 In React, state refers to the data that can change over time and affect the behavior or render output of a component. 
 
-One analogy I like is to think about your emotional state. It will change over time. It's almost never stable.
+One analogy I like is to think about your emotional state. It will change over time. It's rarely stable.
 
 In other words, it's the component's memory. The state in a React component is a JavaScript object and can hold information that may change over the lifetime of the component.
 
@@ -30,5 +30,3 @@ Props and state in React are both plain JavaScript objects holding information t
 
 1. **Props** are passed to the component (similar to function parameters) and are immutable (they don't change) within the component.
 2. **State** is managed within the component (similar to variables declared within a function) and can be changed within the component.
-
-##

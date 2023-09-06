@@ -1,6 +1,7 @@
 # Project: Covid Dashboard using React
 
-## Project set-up
+## Project Set-up
+
 Link to GH classroom [here](https://classroom.github.com/a/vYmDVkEp)
 
 ## Project Description

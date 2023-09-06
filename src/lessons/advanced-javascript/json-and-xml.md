@@ -54,9 +54,9 @@ While XML and JSON can be used to achieve similar goals, there are differences t
 
 - **Readability**: JSON tends to be easier for humans to read and write than XML because it is less verbose.
 - **Data Types**: XML does not provide explicit support for data types. Everything in an XML document is a string. JSON, on the other hand, provides support for data types like numbers and booleans.
-- **Metadata**: XML allows for the use of attributes which can provide metadata about the data it is encoding. JSON does not have a built-in capability for this.
+- **Metadata**: XML allows for the use of attributes that provide metadata about the data it is encoding. JSON does not have a built-in capability for this.
 - **Namespaces**: XML supports namespaces which can be useful when combining documents with different schemas. JSON does not have this feature.
-- **Array Representation**: As mentioned, XML does not have built-in support for arrays, but JSON does.
+- **Array Representation**: As mentioned XML does not have built-in support for arrays, but JSON does.
 
 This is an example of the same data structure (person) represented in both ways:
 

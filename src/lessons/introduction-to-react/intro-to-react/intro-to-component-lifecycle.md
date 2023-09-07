@@ -40,6 +40,6 @@ We will explore more about these new methods in future lessons.
 
 ## Why Do We Need Lifecycle Methods?
 
-Lifecycle methods are critical for managing what happens before a component is created, while it is active, and when it is destroyed. They help manage resources efficiently, initializing resources on mount, updating them when necessary, and cleaning up on unmount.
+Lifecycle methods are critical for managing what happens before a component is created, while it is active, and when it is destroyed. They help manage resources efficiently, initializing resources when mounted, updating them when necessary, and cleaning up when un-mounted.
 
 For example, if your component involves a real-time data subscription, you would start the subscription in `mounting` and close it in `unmounting` to prevent memory leaks.

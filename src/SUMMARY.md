@@ -77,7 +77,7 @@
   - [React Hooks Introduction](lessons/thinking-in-react/react-hooks-intro.md)
   - [Project](lessons/thinking-in-react/project.md)
 
-- [Asynchronous javascript](lessons/asynchronous-javascript.md)
+- [Asynchronous JavaScript](lessons/asynchronous-javascript.md)
   - [Introduction to Asynchronous Programming](lessons/asynchronous-javascript/intro-to-asynchronous-programming.md)
   - [Synchronous vs Asynchronous](lessons/asynchronous-javascript/syncronous-vs-asyncronous.md)
   - [Callbacks](lessons/asynchronous-javascript/callbacks.md)

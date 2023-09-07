@@ -2,7 +2,7 @@
 
 In this article, we will learn JavaScript Modules. Modules are particularly useful for maintaining a clean and organized codebase and can dramatically improve code reuse, comprehension, and maintenance.
 
-You can think of modules as just JavaScript in a separate files. So instead of writing your code in one single file you will split it (but being able to re use each function across different files)
+You can think of modules as just JavaScript in separate files. So instead of writing your code in one single file, you will split it (while still being able to re-use each function across different files).
 
 ![Untitled](./javascript-modules/untitled.png)
 
@@ -19,7 +19,7 @@ Bundling is the process of taking multiple JavaScript files and combining them i
 1. **Performance**: Instead of making multiple requests for many different files, the browser only needs to make a single request for one bundled file.
 2. **Compatibility**: Bundlers often come with built-in support for JavaScript features that are not universally supported by all browsers. The bundler can convert your code into a version of JavaScript that's compatible with most browsers.
 
-There are several popular bundlers available such as [Webpack](https://webpack.js.org/), [Browserify](https://browserify.org/), but for the purpose of this article, we'll use [Vite.js](https://vitejs.dev/) due to its speed and simplicity.
+There are several popular bundlers available such as [Webpack](https://webpack.js.org/), [Browserify](https://browserify.org/), but for this article, we'll use [Vite.js](https://vitejs.dev/) due to its speed and simplicity.
 
 ![Untitled](./javascript-modules/untitled-1.png)
 
@@ -117,7 +117,7 @@ document.querySelector("#calculate-button").addEventListener("click", ()=>{
 
 ### Exports and imports
 
-`module.exports` is the object that's actually returned as the result of a `require` call. Whatever you assign to `module.exports` will be exposed as the public API of your module.
+`module.exports` is the object that's returned as the result of a `require` call. Whatever you assign to `module.exports` will be exposed as the public API of your module.
 
 ```jsx
 // math.js

@@ -52,9 +52,9 @@
 
 - [Introduction to React](lessons/introduction-to-react.md)
   - [Why React](lessons/introduction-to-react/why-react.md)
-    - [What is a SPA?](./lessons/introduction-to-react/why-react/what-is-a-spa.md)
-    - [Benefits and Disadvantages of SPAs?](./lessons/introduction-to-react/why-react/benefits-disadvantages-of-spas.md)
-    - [Why React? Are there other tools?](./lessons/introduction-to-react/why-react/why-react-are-there-other-tools.md)
+    - [What is a SPA?](lessons/introduction-to-react/why-react/what-is-a-spa.md)
+    - [Benefits and Disadvantages of SPAs?](lessons/introduction-to-react/why-react/benefits-disadvantages-of-spas.md)
+    - [Why React? Are there other tools?](lessons/introduction-to-react/why-react/why-react-are-there-other-tools.md)
   - [Introduction to React](lessons/introduction-to-react/intro-to-react.md)
     - [What is React?](lessons/introduction-to-react/intro-to-react/what-is-react.md)
     - [Creating a React Project](lessons/introduction-to-react/intro-to-react/creating-a-react-project.md)

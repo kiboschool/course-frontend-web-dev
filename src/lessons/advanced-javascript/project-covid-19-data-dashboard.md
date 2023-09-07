@@ -1,6 +1,6 @@
 # Project: Covid-19 Data Dashboard
 
-## 0. Project set-up
+## 0. Project Set-up
 
 Get your starter code and project set up [here](https://classroom.github.com/a/GCkMCAGH)
 

@@ -1,15 +1,16 @@
-# Project: Pokedex with React Query
+# Project: Pokédex with React Query
 
-## Project set-up
-Link to GH pages [here](https://classroom.github.com/a/Siyq3FwW)
+## Project Set-up
+
+Link to GitHub [here](https://classroom.github.com/a/Siyq3FwW)
 
 ## Project description
 
-This project will allow you to deepen your understanding of the libraries and hooks covered this week. You'll be refactoring your Pokedex project from last week, adding in React Query for handling API requests, React Context for storing non-API global state, and a contact form with at least 6 fields, utilizing the `useReducer` hook to manage form state.
+This project will allow you to deepen your understanding of the libraries and hooks covered this week. You'll be refactoring your Pokédex project from last week, adding in React Query for handling API requests, React Context for storing non-API global state, and a contact form with at least 6 fields, utilizing the `useReducer` hook to manage form state.
 
 ## Project Milestones
 
-1. **React Query Setup**: Refactor your Pokedex application to use React Query to handle API requests to the [PokeAPI](https://pokeapi.co/). This will allow you to fetch, cache, and efficiently synchronize your Pokemon data.
+1. **React Query Setup**: Refactor your Pokédex application to use React Query to handle API requests to the [PokeAPI](https://pokeapi.co/). This will allow you to fetch, cache, and efficiently synchronize your Pokemon data.
 2. **React Context**: Set up a React Context to handle global non-API state. For this project, we'll be using it to handle a global "theme" state.
 3. **Contact Form**: Add a contact form with at least 6 fields. This should include a variety of field types (like text inputs, number inputs, select dropdowns, etc.). Use the `useReducer` hook to manage your form state.
 4. **React Router**: Set up React Router in your application to handle navigation between different screens.

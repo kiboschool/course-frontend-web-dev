@@ -6,7 +6,7 @@
 
 ## What's here?
 
-```
+```txt
 $ tree .
 .
 ├── README.md
@@ -82,7 +82,7 @@ But courses will typically adjust these course information pages to fit their ne
 
 These are the pages that actually make up the course. It's nice to put things in folders to organize the different pages. Each week can get a 'cover page' and a page per lesson, in a folder with that name, like
 
-```
+```txt
 working-with-data.md
 working-with-data/
     programs-and-comments.md
@@ -97,7 +97,7 @@ working-with-data/
 
 To generate the static site, run:
 
-```
+```bash
 mdbook build
 ```
 
@@ -111,13 +111,13 @@ Install mdbook: https://rust-lang.github.io/mdBook/guide/installation.html
 
 Use your package manager: 
 
-```
+```bash
 brew install mdbook
 ```
 
 or
 
-```
+```bash
 scoop install mdbook
 ```
 
@@ -127,24 +127,24 @@ Or if you use rust: `cargo install mdbook`
 
 ### Run the site locally
 
-```
+```bash
 mdbook serve --open
 ```
 
 ## Deployment
 
 We use `vercel` to handle deploys. It takes some setup to connect a repo to
-vercel, assign a production domain, and set up auto-deploys.
+Vercel, assign a production domain, and set up auto-deploys.
 
-* Github actions will run `mdbook build` on pushed changes
-* All pushes will automatically deploy to vercel
-* Vercel will notify the #tech-status channel on Slack with the deploy preview
-* If you pushed to `main`, it will also deploy to the live site. Watch out!
+- GitHub actions will run `mdbook build` on pushed changes
+- All pushes will automatically deploy to Vercel
+- Vercel will notify the #tech-status channel on Slack with the deploy preview
+- If you push to `main`, it will also deploy to the live site. Watch out!
 
 ## Previews and Drafts
 
 If you'd like to preview changes, push to `draft` branch, which will have a
-separate preview version of the site. 
+separate preview version of the site.
 
 Remember - commits to `main` get built and deployed to the production site; 
 commits to `draft` get pushed to the preview version, others get nothing.

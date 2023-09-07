@@ -1,4 +1,4 @@
-# Project
+# Project: Pokédex with Authentication
 
 ## Project Set-up
 

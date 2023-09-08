@@ -473,4 +473,5 @@ units:
     activities:
       - name: Introduction
         path: src/lessons/final-project.md
+        grade_weight: 100
 

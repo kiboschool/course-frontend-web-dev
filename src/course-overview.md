@@ -42,7 +42,6 @@ By the end of the course, you will be able to:
 - Week 9: Final Project
 - Week 10: Final Project
 
-
 ## Tools
 
 In this course, we are using the following tools. If you haven't set up your laptop and installed the software yet, follow the guide at https://github.com/kiboschool/setup-guides.

@@ -12,7 +12,7 @@ Here is a video to give a wider understanding:
 
 ## How does a SPA work?
 
-Traditionally, web pages required reloading the entire page to fetch new content. This was not only inefficient but also resulted in a clunky and less-than-optimal user experience. In a SPA, only the necessary content is updated.
+Traditional web pages require reloading the entire page to fetch new content. This was not only inefficient but also resulted in a clunky and less-than-optimal user experience. In a SPA, only the necessary content is updated.
 
 When a user clicks on a link or interacts with the site, JavaScript will intercept that interaction and prevent the browser from reloading the page. Then, it fetches the necessary data (typically in JSON format) via [Ajax](https://www.youtube.com/watch?v=3l13qGLTgNw) calls to the server. The new data is then used to update the web page dynamically.
 

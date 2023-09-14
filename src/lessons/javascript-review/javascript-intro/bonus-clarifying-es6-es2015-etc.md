@@ -27,7 +27,7 @@ After a ten-year hiatus, ES5 was released with several critical additions:
 - "Strict Mode": An opt-in mode that tightens the language's rules to catch more errors during development.
 - Accessor properties: Getters and setters for object properties.
 - Array methods: New ways to manipulate arrays, such as `map`, `filter`, `reduce`, and `forEach`.
-- JSON support: Native parsing and string-ifying for JSON data.
+- JSON support: Native parsing and stringifying for JSON data.
 
 ## ES6 / ES2015 (2015)
 

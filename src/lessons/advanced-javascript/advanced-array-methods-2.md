@@ -75,4 +75,4 @@ console.log(includesTwo); // prints: true
 
 This one doesn't require a callback function; instead, you pass in the value you're searching for.
 
-In conclusion, JavaScript provides powerful built-in array methods that help you manipulate and work with arrays in an efficient manner. A key aspect to understand is the use of callback functions within these methods.
+In conclusion, JavaScript provides powerful built-in array methods that help you manipulate and work with arrays efficiently. A key aspect to understand is the use of callback functions within these methods.

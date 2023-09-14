@@ -16,7 +16,7 @@ The dashboard will display the following:
 - Current humidity level.
 - Weather forecast for the next few days. (If clicking on a specific day, **display an alert** will show more detailed info about this day's weather.)
 
-You will be making use of various React concepts you've learned such as components, jsx, css, and events
+You will be making use of various React concepts you've learned such as components, JSX, CSS, and events.
 
 ## Learning Objectives
 
@@ -42,7 +42,7 @@ Create the static version of the app.
 
 It should contain the following  components:
 
-`CityName`, `CurrentDay`, `CurrentTime`, `WeatherCondition`, `HumidityLevel`, `ForecastNextWeek` . 
+`CityName`, `CurrentDay`, `CurrentTime`, `WeatherCondition`, `HumidityLevel`, `ForecastNextWeek`. 
 
 This info is static on should not change.
 

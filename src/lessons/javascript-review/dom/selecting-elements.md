@@ -20,7 +20,7 @@ HTML elements can also share a class name, which can be used to select multiple 
 let elements = document.getElementsByClassName('myClass');
 ```
 
-In this example, all elements with the class 'myClass' are selected. You can then loop through `elements` to work with each individual element.
+In this example, all elements with the class 'myClass' are selected. You can then loop through `elements` to work with each element.
 
 ## Selecting Elements by Tag Name
 

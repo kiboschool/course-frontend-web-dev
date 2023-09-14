@@ -20,7 +20,7 @@ In difference with previous projects, **you will have 2 weeks** to finish this p
 
 - Solidify your understanding of React, JavaScript, and CSS in the context of a larger project.
 - Get hands-on experience with API calls and user authentication in a real-world application.
-- Understand how to structure a larger, more complex frontend application.
+- Understand how to structure a larger, more complex front end application.
 - Practice building user interfaces with React and CSS.
 
 ## Project Milestones

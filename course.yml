@@ -104,8 +104,9 @@ units:
       - name: Exercises (DOM)
         path: src/lessons/javascript-review/dom/exercises.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 100
       - name: Questions about DOM
         path: src/lessons/javascript-review/dom/questions-about-dom.md
         workload: 60
@@ -134,8 +135,9 @@ units:
       - name: Exercises (Events)
         path: src/lessons/javascript-review/events/exercises.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
       - name: Project - Trivia Game
         path: src/lessons/javascript-review/project.md
         workload: 60
@@ -163,8 +165,9 @@ units:
       - name: Project - Encrypt & Decrypt
         path: src/lessons/development-best-practices/project.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: Advanced Javascript
     activities:
       - name: Introduction
@@ -182,8 +185,9 @@ units:
       - name: Exercises (Advanced Array Methods)
         path: src/lessons/advanced-javascript/exercises.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
       - name: Flexbox
         path: src/lessons/advanced-javascript/flexbox.md
         workload: 60
@@ -202,8 +206,9 @@ units:
       - name: Project - Covid-19 Dashboard
         path: src/lessons/advanced-javascript/project-covid-19-data-dashboard.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: Introduction to React
     activities:
       - name: Introduction
@@ -271,8 +276,9 @@ units:
       - name: Project - Weather Dashboard
         path: src/lessons/introduction-to-react/project.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: Thinking in React
     activities:
       - name: Introduction
@@ -325,8 +331,9 @@ units:
       - name: Project - Covid Dashboard using React
         path: src/lessons/thinking-in-react/project.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: Asynchronous JavaScript
     activities:
       - name: Introduction
@@ -369,8 +376,9 @@ units:
       - name: "Project - Pok\xE9dex"
         path: src/lessons/asynchronous-javascript/project.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: Routing and State management
     activities:
       - name: Introduction
@@ -433,8 +441,9 @@ units:
       - name: "Project - Pok\xE9dex with React Query"
         path: src/lessons/state-management/project.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: JWT, Auth, and React
     activities:
       - name: Introduction
@@ -467,8 +476,9 @@ units:
       - name: "Project - Pok\xE9dex with Authentication"
         path: src/lessons/jwt-and-react/project.md
         workload: 60
-        type: lesson
-        kind: general
+        type: assignment
+        kind: assignment
+        grade_weight: 0
   - name: Final Project - Travel Planner
     activities:
       - name: Introduction

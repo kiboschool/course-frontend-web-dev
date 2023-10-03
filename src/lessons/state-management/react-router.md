@@ -9,3 +9,4 @@ We're going to first understand what React Router is and why it's so important f
 After getting the theory part down, we'll jump straight into an exercise. This hands-on activity will help you get a solid grasp on implementing React Router in real-world projects.
 
 Ready to make your React apps more navigable? Let's get started!
+

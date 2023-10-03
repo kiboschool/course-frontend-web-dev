@@ -41,6 +41,7 @@
   - [Writing Unit Tests](lessons/development-best-practices/writing-unit-tests.md)
   - [Project - Encrypt & Decrypt](lessons/development-best-practices/project.md)
 
+
 - [Advanced Javascript](lessons/advanced-javascript.md)
   - [Advanced Array Methods 1](lessons/advanced-javascript/advanced-array-methods-1.md)
   - [Advanced Array Methods 2](lessons/advanced-javascript/advanced-array-methods-2.md)

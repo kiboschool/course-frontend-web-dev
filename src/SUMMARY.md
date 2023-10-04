@@ -20,7 +20,7 @@
   - [Loops](lessons/javascript-review/javascript-intro/loops.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [Functions](lessons/javascript-review/javascript-intro/functions.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [Complex Data Structures (Array-Objects)](lessons/javascript-review/javascript-intro/complex-data-structures-array-objects.md) <!-- w:60, k:general, p:2023-10-02 -->
-  - [Exercises - Loop/Conditionals/Functions](lessons/javascript-review/javascript-intro/exercises-loop-conditionals-functions.md) <!-- w:60, k:general, p:2023-10-02 -->
+  - [Exercises - Loop, Conditionals, and Functions](lessons/javascript-review/javascript-intro/exercises-loop-conditionals-functions.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [BONUS: Clarifying ES6, ES2015, etc](lessons/javascript-review/javascript-intro/bonus-clarifying-es6-es2015-etc.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [JavaScript Questions](lessons/javascript-review/javascript-intro/javascript-questions.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [DOM](lessons/javascript-review/dom.md) <!-- w:60, k:general, p:2023-10-02 -->
@@ -54,7 +54,7 @@
   - [JSON and XML](lessons/advanced-javascript/json-and-xml.md)  <!-- w:120, k:general, p:2023-10-02 -->
   - [Week 3 Assignment - Covid-19 Dashboard](lessons/advanced-javascript/project-covid-19-data-dashboard.md) <!-- w:360, k:assignmentSummative, g:8, d:2023-09-27, p:2023-10-02 -->
 
-- [Introduction to React](lessons/introduction-to-react.md) <!-- w:30, k:general, p:2023-10-02 -->
+- [React Fundamentals](lessons/introduction-to-react.md) <!-- w:30, k:general, p:2023-10-02 -->
   - [Why React](lessons/introduction-to-react/why-react.md)  <!-- w:120, k:general, p:2023-10-02 -->
   - [What is a SPA?](lessons/introduction-to-react/why-react/what-is-a-spa.md)  <!-- w:120, k:general, p:2023-10-02 -->
   - [Benefits and Disadvantages of SPAs?](lessons/introduction-to-react/why-react/benefits-disadvantages-of-spas.md)  <!-- w:120, k:general, p:2023-10-02 -->

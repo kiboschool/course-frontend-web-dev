@@ -105,7 +105,7 @@ units:
         kind: GENERAL
         workload: 60
         publish: 2023-10-02
-      - name: Exercises - Loop/Conditionals/Functions
+      - name: Exercises - Loop, Conditionals, and Functions
         path: src/lessons/javascript-review/javascript-intro/exercises-loop-conditionals-functions.md
         type: lesson
         kind: GENERAL
@@ -303,7 +303,7 @@ units:
         grade_weight: 8.0
         due: 2023-09-27
         publish: 2023-10-02
-  - name: Introduction to React
+  - name: React Fundamentals
     activities:
       - name: Introduction
         path: src/lessons/introduction-to-react.md

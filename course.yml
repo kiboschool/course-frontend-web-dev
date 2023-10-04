@@ -1,0 +1,487 @@
+name: Front End Web Development
+code: CSE007
+term: Oct-2023
+about_path: src/course-overview.md
+units:
+  - name: JavaScript Review
+    activities:
+      - name: Introduction
+        path: src/lessons/javascript-review.md
+      - name: Start Here
+        path: src/lessons/javascript-review/start-here.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: JavaScript Intro
+        path: src/lessons/javascript-review/javascript-intro.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Information Types and Operations
+        path: src/lessons/javascript-review/javascript-intro/information-type-and-operations.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Variables
+        path: src/lessons/javascript-review/javascript-intro/variables.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Exercises (Variable types and operations)
+        path: src/lessons/javascript-review/javascript-intro/exercises-variable-types-and-operations.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Conditionals
+        path: src/lessons/javascript-review/javascript-intro/conditionals.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Loops
+        path: src/lessons/javascript-review/javascript-intro/loops.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Functions
+        path: src/lessons/javascript-review/javascript-intro/functions.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Complex Data Structures (Array-Objects)
+        path: src/lessons/javascript-review/javascript-intro/complex-data-structures-array-objects.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Exercises (Loop/Conditionals/Functions)
+        path: src/lessons/javascript-review/javascript-intro/exercises-loop-conditionals-functions.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: 'BONUS: Clarifying ES6,ES2015, etc'
+        path: src/lessons/javascript-review/javascript-intro/bonus-clarifying-es6-es2015-etc.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: JavaScript Questions
+        path: src/lessons/javascript-review/javascript-intro/javascript-questions.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: DOM
+        path: src/lessons/javascript-review/dom.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: What is the DOM?
+        path: src/lessons/javascript-review/dom/what-is-the-dom.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Node Types
+        path: src/lessons/javascript-review/dom/node-types.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Selecting Elements
+        path: src/lessons/javascript-review/dom/selecting-elements.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Updating Elements
+        path: src/lessons/javascript-review/dom/updating-elements.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Inserting Elements
+        path: src/lessons/javascript-review/dom/inserting-elements.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Deleting Elements
+        path: src/lessons/javascript-review/dom/deleting-elements.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Exercises (DOM)
+        path: src/lessons/javascript-review/dom/exercises.md
+        workload: 60
+        type: assignment
+        kind: assignment
+        grade_weight: 100
+      - name: Questions about DOM
+        path: src/lessons/javascript-review/dom/questions-about-dom.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Events
+        path: src/lessons/javascript-review/events.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: What is an Event?
+        path: src/lessons/javascript-review/events/what-is-an-event.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Types of Events
+        path: src/lessons/javascript-review/events/types-of-events.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Accessing  Event Information
+        path: src/lessons/javascript-review/events/accessing-to-the-event-information.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Exercises (Events)
+        path: src/lessons/javascript-review/events/exercises.md
+        workload: 60
+        type: assignment
+        kind: assignment
+        grade_weight: 0
+      - name: Project - Trivia Game
+        path: src/lessons/javascript-review/project.md
+        workload: 60
+        type: lesson
+        kind: general
+  - name: Development Best Practices
+    activities:
+      - name: Introduction
+        path: src/lessons/development-best-practices.md
+      - name: JavaScript Modules
+        path: src/lessons/development-best-practices/javascript-modules.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: GitHub Pages Deploy
+        path: src/lessons/development-best-practices/gh-pages-deploy.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Writing Unit Tests
+        path: src/lessons/development-best-practices/writing-unit-tests.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Project - Encrypt & Decrypt
+        path: src/lessons/development-best-practices/project.md
+        workload: 60
+        type: assignment
+        kind: assignment
+        grade_weight: 0
+  - name: Advanced Javascript
+    activities:
+      - name: Introduction
+        path: src/lessons/advanced-javascript.md
+      - name: Advanced Array Methods 1
+        path: src/lessons/advanced-javascript/advanced-array-methods-1.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Advanced Array Methods 2
+        path: src/lessons/advanced-javascript/advanced-array-methods-2.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Exercises (Advanced Array Methods)
+        path: src/lessons/advanced-javascript/exercises.md
+        workload: 60
+        type: assignment
+        kind: assignment
+        grade_weight: 0
+      - name: Flexbox
+        path: src/lessons/advanced-javascript/flexbox.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Collaborative Github
+        path: src/lessons/advanced-javascript/collaborative-github.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: JSON and XML
+        path: src/lessons/advanced-javascript/json-and-xml.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Project - Covid-19 Dashboard
+        path: src/lessons/advanced-javascript/project-covid-19-data-dashboard.md
+        workload: 60
+        type: assignment
+        kind: assignment
+        grade_weight: 0
+  - name: Introduction to React
+    activities:
+      - name: Introduction
+        path: src/lessons/introduction-to-react.md
+      - name: Why React
+        path: src/lessons/introduction-to-react/why-react.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: What is a SPA?
+        path: src/lessons/introduction-to-react/why-react/what-is-a-spa.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Benefits and Disadvantages of SPAs?
+        path: src/lessons/introduction-to-react/why-react/benefits-disadvantages-of-spas.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Why React? Are there other tools?
+        path: src/lessons/introduction-to-react/why-react/why-react-are-there-other-tools.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Introduction to React
+        path: src/lessons/introduction-to-react/intro-to-react.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: What is React?
+        path: src/lessons/introduction-to-react/intro-to-react/what-is-react.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Creating a React Project
+        path: src/lessons/introduction-to-react/intro-to-react/creating-a-react-project.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Our First Component
+        path: src/lessons/introduction-to-react/intro-to-react/our-first-component.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: What is JSX?
+        path: src/lessons/introduction-to-react/intro-to-react/what-is-jsx.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: CSS and React
+        path: src/lessons/introduction-to-react/intro-to-react/css-and-react.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: React and Events
+        path: src/lessons/introduction-to-react/intro-to-react/react-and-events.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Introduction to the ComponentLifecycle
+        path: src/lessons/introduction-to-react/intro-to-react/intro-to-component-lifecycle.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Project - Weather Dashboard
+        path: src/lessons/introduction-to-react/project.md
+        workload: 60
+        type: assignment
+        kind: assignment
+        grade_weight: 0
+  - name: Thinking in React
+    activities:
+      - name: Introduction
+        path: src/lessons/thinking-in-react.md
+      - name: How to Think in React
+        path: src/lessons/thinking-in-react/how-to-think-in-react.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Class and Functional Components
+        path: src/lessons/thinking-in-react/class-and-functional-components.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Props
+        path: src/lessons/thinking-in-react/props.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: State
+        path: src/lessons/thinking-in-react/state.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: useState
+        path: src/lessons/thinking-in-react/usestate.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Components Lifecycle
+        path: src/lessons/thinking-in-react/components-lifecycle.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: useEffect
+        path: src/lessons/thinking-in-react/useeffect.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Rendering Lists
+        path: src/lessons/thinking-in-react/rendering-lists.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: React Hooks Introduction
+        path: src/lessons/thinking-in-react/react-hooks-intro.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Project - Covid Dashboard using React
+        path: src/lessons/thinking-in-react/project.md
+        workload: 60
+        type: assignment
+        kind: assignment
+        grade_weight: 0
+  - name: Asynchronous JavaScript
+    activities:
+      - name: Introduction
+        path: src/lessons/asynchronous-javascript.md
+      - name: Introduction to Asynchronous Programming
+        path: src/lessons/asynchronous-javascript/intro-to-asynchronous-programming.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Synchronous vs Asynchronous
+        path: src/lessons/asynchronous-javascript/syncronous-vs-asyncronous.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Callbacks
+        path: src/lessons/asynchronous-javascript/callbacks.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Promises
+        path: src/lessons/asynchronous-javascript/promises.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Async and Await
+        path: src/lessons/asynchronous-javascript/async-await.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Calling APIs
+        path: src/lessons/asynchronous-javascript/calling-apis.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Browser APIs
+        path: src/lessons/asynchronous-javascript/browser-apis.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: "Project - Pok\xE9dex"
+        path: src/lessons/asynchronous-javascript/project.md
+        workload: 60
+        type: assignment
+        kind: assignment
+        grade_weight: 0
+  - name: Routing and State management
+    activities:
+      - name: Introduction
+        path: src/lessons/state-management.md
+      - name: React Router
+        path: src/lessons/state-management/react-router.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: What is React Router?
+        path: src/lessons/state-management/react-router/what-is-react-router.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Exercise (React Router)
+        path: src/lessons/state-management/react-router/react-router-exercise.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Advanced State Management
+        path: src/lessons/state-management/advanced-state-managment.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: State Management is Hard
+        path: src/lessons/state-management/advanced-state-managment/state-management-is-hard.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Global State
+        path: src/lessons/state-management/advanced-state-managment/global-state.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: React Context
+        path: src/lessons/state-management/advanced-state-managment/react-context.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: React Query
+        path: src/lessons/state-management/advanced-state-managment/react-query.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: '`useReducer`'
+        path: src/lessons/state-management/advanced-state-managment/usereducer.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Other Global State Libraries
+        path: src/lessons/state-management/advanced-state-managment/other-global-state-libraries.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: State in URLs
+        path: src/lessons/state-management/advanced-state-managment/state-in-url.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: "Project - Pok\xE9dex with React Query"
+        path: src/lessons/state-management/project.md
+        workload: 60
+        type: assignment
+        kind: assignment
+        grade_weight: 0
+  - name: JWT, Auth, and React
+    activities:
+      - name: Introduction
+        path: src/lessons/jwt-and-react.md
+      - name: Introduction to Auth Flows
+        path: src/lessons/jwt-and-react/auth-flows-intro.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: What is JWT
+        path: src/lessons/jwt-and-react/what-is-jwt.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Protected Routes
+        path: src/lessons/jwt-and-react/protected-routes.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: JWT, Auth, and React
+        path: src/lessons/jwt-and-react/jwt-and-react.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: Exercise
+        path: src/lessons/jwt-and-react/exercise.md
+        workload: 60
+        type: lesson
+        kind: general
+      - name: "Project - Pok\xE9dex with Authentication"
+        path: src/lessons/jwt-and-react/project.md
+        workload: 60
+        type: assignment
+        kind: assignment
+        grade_weight: 0
+  - name: Final Project - Travel Planner
+    activities:
+      - name: Introduction
+        path: src/lessons/final-project.md
+

@@ -1,26 +1,29 @@
-# Assessments and Grading
-
-Each week, you will have a project to complete. The final project will be a two-week project during
-weeks 9 and 10 of the term.  
-
-- Week 1:
-  - [Practice Exercises - JavaScript Review](https://draft-frontend-web-dev.vercel.app/lessons/javascript-review/javascript-intro/exercises-variable-types-and-operations.html)
-  - [Project - Trivia Game](https://draft-frontend-web-dev.vercel.app/lessons/javascript-review/project.html)
-- Week 2: [Project - Encrypt & Decrypt](https://draft-frontend-web-dev.vercel.app/lessons/development-best-practices/project.html)
-- Week 3:
-  - [Practice Exercises - Advanced Array Methods](https://draft-frontend-web-dev.vercel.app/lessons/advanced-javascript/exercises.html)
-  - [Project - Covid-19 Dashboard](https://draft-frontend-web-dev.vercel.app/lessons/advanced-javascript/project-covid-19-data-dashboard.html)
-- Week 4: [Project - Weather Dashboard](https://draft-frontend-web-dev.vercel.app/lessons/introduction-to-react/project.html)
-- Week 5: [Project - Covid Dashboard using React](https://draft-frontend-web-dev.vercel.app/lessons/thinking-in-react/project.html)
-- Week 6: [Project - Pokédex](https://draft-frontend-web-dev.vercel.app/lessons/asynchronous-javascript/project.html)
-- Week 7: [Project - Pokédex with React Query](https://draft-frontend-web-dev.vercel.app/lessons/state-management/project.html)
-- Week 8: [Project - Pokédex with Authentication](https://draft-frontend-web-dev.vercel.app/lessons/jwt-and-react/project.html)
-- Week 9 and 10: [Final Project - Travel Planner](https://draft-frontend-web-dev.vercel.app/lessons/final-project.html)
-
-## Grading
+# Assessments
 
 Your overall course grade is made up of:
 
 - Weeks 1 and 3 Practice Exercises: 10% (5% each)
-- Weekly Projects: 64% (8% each)
+- Weekly Assignments: 64% (8% each)
 - Final Project: 26%
+
+## Practice Exercises
+
+Throughout the course, there are practice exercises that are recommended each week.  We will not
+be asking you to submit evidence of completing all of these practice exercises, but we will ask for you to
+submit some.  Just because we ask that you submit some exercises but not others, this is not an indication
+of their relative importance.  You should strive to do as much practice as possible.  As with anything,
+practice is how you develop mastery.
+
+## Weekly Assignments
+
+Each week you will be given an assignment, where you'll practice the concepts
+covered in the readings and lessons.  The assignment let you practice the topics you covered that week, explore applications and connections, and check your own understanding of the material.
+
+Assignments will be distributed via GitHub classroom, and you will be asked to write significant code.  Upon
+completion of the assignments, they will be submitted to Gradescope for grading.
+
+## Final Project
+
+You will have a final project in this course.  Projects are larger in scale and will
+give you an opportunity to work with larger amounts of code to solve more complex problems.  You will be given two weeks to complete the project.  This project represent a significant portion of your grade, and so it is important that you start it as early as possible.  
+

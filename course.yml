@@ -3,485 +3,666 @@ code: CSE007
 term: Oct-2023
 about_path: src/course-overview.md
 units:
+  - name: Course Overview
+    activities:
+      - name: Introduction
+        path: src/course-overview.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-09-27
+      - name: Live Classes
+        path: src/live-classes.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-09-27
+      - name: Assessments
+        path: src/assessments.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-09-27
+      - name: Getting Help
+        path: src/getting-help.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-09-27
+      - name: Giving Help
+        path: src/giving-help.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-09-27
+      - name: Academic Integrity
+        path: src/academic-integrity.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-09-27
   - name: JavaScript Review
     activities:
       - name: Introduction
         path: src/lessons/javascript-review.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
       - name: Start Here
         path: src/lessons/javascript-review/start-here.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: JavaScript Intro
         path: src/lessons/javascript-review/javascript-intro.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Information Types and Operations
         path: src/lessons/javascript-review/javascript-intro/information-type-and-operations.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Variables
         path: src/lessons/javascript-review/javascript-intro/variables.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: Exercises (Variable types and operations)
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
+      - name: Week 1 Exercises - Variable Types and Operations
         path: src/lessons/javascript-review/javascript-intro/exercises-variable-types-and-operations.md
+        type: assignment
+        kind: ASSIGNMENT
         workload: 60
-        type: lesson
-        kind: general
+        grade_weight: 5.0
+        due: 2023-09-27
+        publish: 2023-10-02
       - name: Conditionals
         path: src/lessons/javascript-review/javascript-intro/conditionals.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Loops
         path: src/lessons/javascript-review/javascript-intro/loops.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Functions
         path: src/lessons/javascript-review/javascript-intro/functions.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Complex Data Structures (Array-Objects)
         path: src/lessons/javascript-review/javascript-intro/complex-data-structures-array-objects.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: Exercises (Loop/Conditionals/Functions)
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
+      - name: Exercises - Loop/Conditionals/Functions
         path: src/lessons/javascript-review/javascript-intro/exercises-loop-conditionals-functions.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: 'BONUS: Clarifying ES6,ES2015, etc'
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
+      - name: 'BONUS: Clarifying ES6, ES2015, etc'
         path: src/lessons/javascript-review/javascript-intro/bonus-clarifying-es6-es2015-etc.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: JavaScript Questions
         path: src/lessons/javascript-review/javascript-intro/javascript-questions.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: DOM
         path: src/lessons/javascript-review/dom.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: What is the DOM?
         path: src/lessons/javascript-review/dom/what-is-the-dom.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Node Types
         path: src/lessons/javascript-review/dom/node-types.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Selecting Elements
         path: src/lessons/javascript-review/dom/selecting-elements.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Updating Elements
         path: src/lessons/javascript-review/dom/updating-elements.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Inserting Elements
         path: src/lessons/javascript-review/dom/inserting-elements.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Deleting Elements
         path: src/lessons/javascript-review/dom/deleting-elements.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: Exercises (DOM)
-        path: src/lessons/javascript-review/dom/exercises.md
+        kind: GENERAL
         workload: 60
-        type: assignment
-        kind: assignment
-        grade_weight: 100
+        publish: 2023-10-02
+      - name: Exercises - DOM
+        path: src/lessons/javascript-review/dom/exercises.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Questions about DOM
         path: src/lessons/javascript-review/dom/questions-about-dom.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Events
         path: src/lessons/javascript-review/events.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: What is an Event?
         path: src/lessons/javascript-review/events/what-is-an-event.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
       - name: Types of Events
         path: src/lessons/javascript-review/events/types-of-events.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: Accessing  Event Information
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
+      - name: Accessing Event Information
         path: src/lessons/javascript-review/events/accessing-to-the-event-information.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: Exercises (Events)
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
+      - name: Exercises - Events
         path: src/lessons/javascript-review/events/exercises.md
-        workload: 60
-        type: assignment
-        kind: assignment
-        grade_weight: 0
-      - name: Project - Trivia Game
-        path: src/lessons/javascript-review/project.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 60
+        publish: 2023-10-02
+      - name: Week 1 Assignment - Trivia Game
+        path: src/lessons/javascript-review/project.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 360
+        grade_weight: 8.0
+        due: 2023-09-27
+        publish: 2023-10-02
   - name: Development Best Practices
     activities:
       - name: Introduction
         path: src/lessons/development-best-practices.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
       - name: JavaScript Modules
         path: src/lessons/development-best-practices/javascript-modules.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: GitHub Pages Deploy
         path: src/lessons/development-best-practices/gh-pages-deploy.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Writing Unit Tests
         path: src/lessons/development-best-practices/writing-unit-tests.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: Project - Encrypt & Decrypt
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
+      - name: Week 2 Assignment - Encrypt & Decrypt
         path: src/lessons/development-best-practices/project.md
-        workload: 60
         type: assignment
-        kind: assignment
-        grade_weight: 0
+        kind: ASSIGNMENT
+        workload: 360
+        grade_weight: 8.0
+        due: 2023-09-27
+        publish: 2023-10-02
   - name: Advanced Javascript
     activities:
       - name: Introduction
         path: src/lessons/advanced-javascript.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
       - name: Advanced Array Methods 1
         path: src/lessons/advanced-javascript/advanced-array-methods-1.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Advanced Array Methods 2
         path: src/lessons/advanced-javascript/advanced-array-methods-2.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: Exercises (Advanced Array Methods)
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
+      - name: Week 3 Exercises - Advanced Array Methods
         path: src/lessons/advanced-javascript/exercises.md
-        workload: 60
         type: assignment
-        kind: assignment
-        grade_weight: 0
+        kind: ASSIGNMENT
+        workload: 60
+        grade_weight: 5.0
+        due: 2023-09-27
+        publish: 2023-10-02
       - name: Flexbox
         path: src/lessons/advanced-javascript/flexbox.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Collaborative Github
         path: src/lessons/advanced-javascript/collaborative-github.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: JSON and XML
         path: src/lessons/advanced-javascript/json-and-xml.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: Project - Covid-19 Dashboard
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
+      - name: Week 3 Assignment - Covid-19 Dashboard
         path: src/lessons/advanced-javascript/project-covid-19-data-dashboard.md
-        workload: 60
         type: assignment
-        kind: assignment
-        grade_weight: 0
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 360
+        grade_weight: 8.0
+        due: 2023-09-27
+        publish: 2023-10-02
   - name: Introduction to React
     activities:
       - name: Introduction
         path: src/lessons/introduction-to-react.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
       - name: Why React
         path: src/lessons/introduction-to-react/why-react.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: What is a SPA?
         path: src/lessons/introduction-to-react/why-react/what-is-a-spa.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Benefits and Disadvantages of SPAs?
         path: src/lessons/introduction-to-react/why-react/benefits-disadvantages-of-spas.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Why React? Are there other tools?
         path: src/lessons/introduction-to-react/why-react/why-react-are-there-other-tools.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Introduction to React
         path: src/lessons/introduction-to-react/intro-to-react.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: What is React?
         path: src/lessons/introduction-to-react/intro-to-react/what-is-react.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Creating a React Project
         path: src/lessons/introduction-to-react/intro-to-react/creating-a-react-project.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Our First Component
         path: src/lessons/introduction-to-react/intro-to-react/our-first-component.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: What is JSX?
         path: src/lessons/introduction-to-react/intro-to-react/what-is-jsx.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: CSS and React
         path: src/lessons/introduction-to-react/intro-to-react/css-and-react.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: React and Events
         path: src/lessons/introduction-to-react/intro-to-react/react-and-events.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: Introduction to the ComponentLifecycle
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
+      - name: Introduction to the Component Lifecycle
         path: src/lessons/introduction-to-react/intro-to-react/intro-to-component-lifecycle.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: Project - Weather Dashboard
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
+      - name: Week 4 Assignment - Weather Dashboard
         path: src/lessons/introduction-to-react/project.md
-        workload: 60
         type: assignment
-        kind: assignment
-        grade_weight: 0
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 360
+        grade_weight: 8.0
+        due: 2023-09-27
+        publish: 2023-10-02
   - name: Thinking in React
     activities:
       - name: Introduction
         path: src/lessons/thinking-in-react.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
       - name: How to Think in React
         path: src/lessons/thinking-in-react/how-to-think-in-react.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Class and Functional Components
         path: src/lessons/thinking-in-react/class-and-functional-components.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Props
         path: src/lessons/thinking-in-react/props.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: State
         path: src/lessons/thinking-in-react/state.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: useState
         path: src/lessons/thinking-in-react/usestate.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Components Lifecycle
         path: src/lessons/thinking-in-react/components-lifecycle.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: useEffect
         path: src/lessons/thinking-in-react/useeffect.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Rendering Lists
         path: src/lessons/thinking-in-react/rendering-lists.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: React Hooks Introduction
         path: src/lessons/thinking-in-react/react-hooks-intro.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: Project - Covid Dashboard using React
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
+      - name: Week 5 Assignment - Covid Dashboard using React
         path: src/lessons/thinking-in-react/project.md
-        workload: 60
         type: assignment
-        kind: assignment
-        grade_weight: 0
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 360
+        grade_weight: 8.0
+        due: 2023-09-27
+        publish: 2023-10-02
   - name: Asynchronous JavaScript
     activities:
       - name: Introduction
         path: src/lessons/asynchronous-javascript.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
       - name: Introduction to Asynchronous Programming
         path: src/lessons/asynchronous-javascript/intro-to-asynchronous-programming.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Synchronous vs Asynchronous
         path: src/lessons/asynchronous-javascript/syncronous-vs-asyncronous.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Callbacks
         path: src/lessons/asynchronous-javascript/callbacks.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Promises
         path: src/lessons/asynchronous-javascript/promises.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Async and Await
         path: src/lessons/asynchronous-javascript/async-await.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Calling APIs
         path: src/lessons/asynchronous-javascript/calling-apis.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Browser APIs
         path: src/lessons/asynchronous-javascript/browser-apis.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: "Project - Pok\xE9dex"
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
+      - name: Week 6 Assignment - Pokedex
         path: src/lessons/asynchronous-javascript/project.md
-        workload: 60
         type: assignment
-        kind: assignment
-        grade_weight: 0
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 360
+        grade_weight: 8.0
+        due: 2023-09-27
+        publish: 2023-10-02
   - name: Routing and State management
     activities:
       - name: Introduction
         path: src/lessons/state-management.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
       - name: React Router
         path: src/lessons/state-management/react-router.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: What is React Router?
         path: src/lessons/state-management/react-router/what-is-react-router.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Exercise (React Router)
         path: src/lessons/state-management/react-router/react-router-exercise.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Advanced State Management
         path: src/lessons/state-management/advanced-state-managment.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: State Management is Hard
         path: src/lessons/state-management/advanced-state-managment/state-management-is-hard.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Global State
         path: src/lessons/state-management/advanced-state-managment/global-state.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: React Context
         path: src/lessons/state-management/advanced-state-managment/react-context.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: React Query
         path: src/lessons/state-management/advanced-state-managment/react-query.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: '`useReducer`'
         path: src/lessons/state-management/advanced-state-managment/usereducer.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Other Global State Libraries
         path: src/lessons/state-management/advanced-state-managment/other-global-state-libraries.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: State in URLs
         path: src/lessons/state-management/advanced-state-managment/state-in-url.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: "Project - Pok\xE9dex with React Query"
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
+      - name: Week 7 Assignment - Pokedex with React Query
         path: src/lessons/state-management/project.md
-        workload: 60
         type: assignment
-        kind: assignment
-        grade_weight: 0
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 360
+        grade_weight: 8.0
+        due: 2023-09-27
+        publish: 2023-10-02
   - name: JWT, Auth, and React
     activities:
       - name: Introduction
         path: src/lessons/jwt-and-react.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
       - name: Introduction to Auth Flows
         path: src/lessons/jwt-and-react/auth-flows-intro.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: What is JWT
         path: src/lessons/jwt-and-react/what-is-jwt.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Protected Routes
         path: src/lessons/jwt-and-react/protected-routes.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: JWT, Auth, and React
         path: src/lessons/jwt-and-react/jwt-and-react.md
-        workload: 60
         type: lesson
-        kind: general
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
       - name: Exercise
         path: src/lessons/jwt-and-react/exercise.md
-        workload: 60
         type: lesson
-        kind: general
-      - name: "Project - Pok\xE9dex with Authentication"
+        kind: GENERAL
+        workload: 120
+        publish: 2023-10-02
+      - name: Week 8 Assignment - Pokedex with Authentication
         path: src/lessons/jwt-and-react/project.md
-        workload: 60
         type: assignment
-        kind: assignment
-        grade_weight: 0
-  - name: Final Project - Travel Planner
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 360
+        grade_weight: 8.0
+        due: 2023-09-27
+        publish: 2023-10-02
+  - name: Applying What You've Learned
+    activities:
+      - name: Introduction
+        path: src/lessons/application.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: 2023-10-02
+  - name: Week 9 Final Project - Travel Planner
     activities:
       - name: Introduction
         path: src/lessons/final-project.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 720
+        grade_weight: 26.0
+        due: 2023-09-27
+        publish: 2023-10-02
 

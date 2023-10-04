@@ -6,20 +6,6 @@ Over the next 10 weeks, we will embark on an adventure of understanding JavaScri
 
 We will discover the main use cases, best practices, and techniques that will allow us to create beautiful, fast, and functional UIs (User Interfaces) for any web application.
 
-## Meeting Times
-
-Note that all times are listed in GMT.  Please be sure to convert to your local time zone:
-
-- **Live Classes** (Mandatory): Day of Week ?:??pm to ?:??pm GMT
-- **Office Hours** (Optional): Day of Week ?:??pm to ?:??pm GMT
-
-## Instructor
-
-Name
-Contact information (email address)
-
-Please first contact me on Discord with any questions.
-
 ## Learning Outcomes
 
 By the end of the course, you will be able to:
@@ -29,18 +15,25 @@ By the end of the course, you will be able to:
 - Measure, monitor, and take steps to improve the performance of a web application
 - Plan, communicate, and work together on web application code
 
-## Weekly Topics
+## Instructor
 
-- Week 1: Javascript Review
-- Week 2: Development Best Practices
-- Week 3: Advanced Javascript
-- Week 4: Introduction to React
-- Week 5: Thinking in React
-- Week 6: Asynchronous JavaScript
-- Week 7: Routing and State Management
-- Week 8: JWT, Auth, and React
-- Week 9: Final Project
-- Week 10: Final Project
+- Instructor Name
+- [email](mailto:email)
+
+Please contact on Discord first with questions about the course.
+
+## Live Class Time
+<!-- UPDATE EACH TERM -->
+**Note: all times are shown in GMT.**
+
+- Day of Week at X:XX PM GMT to X:XX PM GMT
+
+The following week’s lessons will be released every Sunday.
+
+## Office Hours
+<!-- UPDATE EACH TERM -->
+- Instructor: Day of Week at X:XX PM GMT to X:XX PM GMT
+- Teaching Assistant: Day of Week at X:XX PM GMT to X:XX PM GMT
 
 ## Tools
 

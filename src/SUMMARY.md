@@ -15,13 +15,13 @@
   - [JavaScript Intro](lessons/javascript-review/javascript-intro.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [Information Types and Operations](lessons/javascript-review/javascript-intro/information-type-and-operations.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [Variables](lessons/javascript-review/javascript-intro/variables.md) <!-- w:60, k:general, p:2023-10-02 -->
-  - [Week 1 Exercises - Variable Types and Operations](lessons/javascript-review/javascript-intro/exercises-variable-types-and-operations.md) <!-- w:60, k:assignment, g:5, d:2023-09-27, p:2023-10-02 -->
+  - [Week 1 Exercises - Variables, Types, and Operations](lessons/javascript-review/javascript-intro/exercises-variable-types-and-operations.md) <!-- w:60, k:assignment, g:5, d:2023-09-27, p:2023-10-02 -->
   - [Conditionals](lessons/javascript-review/javascript-intro/conditionals.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [Loops](lessons/javascript-review/javascript-intro/loops.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [Functions](lessons/javascript-review/javascript-intro/functions.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [Complex Data Structures (Array-Objects)](lessons/javascript-review/javascript-intro/complex-data-structures-array-objects.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [Exercises - Loop, Conditionals, and Functions](lessons/javascript-review/javascript-intro/exercises-loop-conditionals-functions.md) <!-- w:60, k:general, p:2023-10-02 -->
-  - [BONUS: Clarifying ES6, ES2015, etc](lessons/javascript-review/javascript-intro/bonus-clarifying-es6-es2015-etc.md) <!-- w:60, k:general, p:2023-10-02 -->
+  - [BONUS - Clarifying ES6, ES2015, etc](lessons/javascript-review/javascript-intro/bonus-clarifying-es6-es2015-etc.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [JavaScript Questions](lessons/javascript-review/javascript-intro/javascript-questions.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [DOM](lessons/javascript-review/dom.md) <!-- w:60, k:general, p:2023-10-02 -->
   - [What is the DOM?](lessons/javascript-review/dom/what-is-the-dom.md) <!-- w:60, k:general, p:2023-10-02 -->

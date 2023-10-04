@@ -73,7 +73,7 @@ units:
         kind: GENERAL
         workload: 60
         publish: 2023-10-02
-      - name: Week 1 Exercises - Variable Types and Operations
+      - name: Week 1 Exercises - Variables, Types, and Operations
         path: src/lessons/javascript-review/javascript-intro/exercises-variable-types-and-operations.md
         type: assignment
         kind: ASSIGNMENT
@@ -111,7 +111,7 @@ units:
         kind: GENERAL
         workload: 60
         publish: 2023-10-02
-      - name: 'BONUS: Clarifying ES6, ES2015, etc'
+      - name: BONUS - Clarifying ES6, ES2015, etc
         path: src/lessons/javascript-review/javascript-intro/bonus-clarifying-es6-es2015-etc.md
         type: lesson
         kind: GENERAL

@@ -114,4 +114,4 @@
   - [Week 8 Assignment - Pokedex with Authentication](lessons/jwt-and-react/project.md) <!-- w:360, k:assignmentSummative, g:8, d:2023-09-27, p:2023-10-02 -->
 
 - [Applying What You've Learned](lessons/application.md) <!-- w:30, k:general, p:2023-10-02 -->
-- [Week 9 Final Project - Travel Planner](lessons/final-project.md) <!-- w:720, k:assignmentSummative, g:26, d:2023-09-27, p:2023-10-02 -->
+  - [Week 9 Final Project - Travel Planner](lessons/final-project.md) <!-- w:720, k:assignmentSummative, g:26, d:2023-09-27, p:2023-10-02 -->

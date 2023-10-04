@@ -655,9 +655,7 @@ units:
         kind: GENERAL
         workload: 30
         publish: 2023-10-02
-  - name: Week 9 Final Project - Travel Planner
-    activities:
-      - name: Introduction
+      - name: Week 9 Final Project - Travel Planner
         path: src/lessons/final-project.md
         type: assignment
         kind: ASSIGNMENT_SUMMATIVE

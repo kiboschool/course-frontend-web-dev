@@ -9,7 +9,7 @@ to attend the live class, please be sure to watch the recording as quickly as po
 so that you do not fall behind.  
 
 | Week | Topic           | Materials       | Video               |
-+------+-----------------+-----------------+---------------------+
+|------|-----------------|-----------------|---------------------|
 | 1    |                 |                 |                     |
 | 2    |                 |                 |                     |
 | 3    |                 |                 |                     |

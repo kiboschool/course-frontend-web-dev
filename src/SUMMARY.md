@@ -7,6 +7,8 @@
   - [Getting Help](getting-help.md) <!-- w:30, k:general, p:2023-10-08 -->
   - [Giving Help](giving-help.md) <!-- w:30, k:general, p:2023-10-08 -->
   - [Academic Integrity](academic-integrity.md) <!-- w:30, k:general, p:2023-10-08 -->
+  - [Core Reading](core-reading.md) <!-- w:240, k:publicationReviewed, p:2023-10-08 -->
+  - [Supplemental Reading](supplemental-reading.md) <!-- w:240, k:publicationReviewed, p:2023-10-08 -->
 
 ## Lessons
 

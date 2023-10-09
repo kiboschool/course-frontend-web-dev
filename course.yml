@@ -41,6 +41,18 @@ units:
         kind: GENERAL
         workload: 30
         publish: 2023-10-08
+      - name: Core Reading
+        path: src/core-reading.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 240
+        publish: 2023-10-08
+      - name: Supplemental Reading
+        path: src/supplemental-reading.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 240
+        publish: 2023-10-08
   - name: JavaScript Review
     activities:
       - name: Introduction

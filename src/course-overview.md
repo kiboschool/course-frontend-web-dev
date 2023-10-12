@@ -17,8 +17,8 @@ By the end of the course, you will be able to:
 
 ## Instructor
 
-- Instructor Name
-- [email](mailto:email)
+- Emmanuel Orozco
+- [emmanuel.orozco@kibo.school](mailto:emmanuel.orozco@kibo.school)
 
 Please contact on Discord first with questions about the course.
 
@@ -26,14 +26,13 @@ Please contact on Discord first with questions about the course.
 <!-- UPDATE EACH TERM -->
 **Note: all times are shown in GMT.**
 
-- Day of Week at X:XX PM GMT to X:XX PM GMT
+- Tuesdays at 4:00 PM to 5:30 PM GMT
 
 The following week’s lessons will be released every Sunday.
 
 ## Office Hours
 <!-- UPDATE EACH TERM -->
-- Instructor: Day of Week at X:XX PM GMT to X:XX PM GMT
-- Teaching Assistant: Day of Week at X:XX PM GMT to X:XX PM GMT
+- Instructor: Wednesdays at 2:00 to 3:00 PM GMT
 
 ## Tools
 

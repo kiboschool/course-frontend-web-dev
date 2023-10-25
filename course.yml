@@ -2,6 +2,7 @@ name: Front End Web Development
 code: CSE007
 term: Oct-2023
 about_path: src/course-overview.md
+image_path: src/js-collab.png
 units:
   - name: Course Overview
     activities:

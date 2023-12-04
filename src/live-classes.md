@@ -8,38 +8,28 @@ If you have technical difficulties or are occasionally unable
 to attend the live class, please be sure to watch the recording as quickly as possible
 so that you do not fall behind.  
 
-| Week | Topic           | Materials       | Video               |
-|------|-----------------|-----------------|---------------------|
-| 1    |                 |                 |                     |
-| 2    |                 |                 |                     |
-| 3    |                 |                 |                     |
-| 4    |                 |                 |                     |
-| 5    |                 |                 |                     |
-| 6    |                 |                 |                     |
-| 7    |                 |                 |                     |
-| 8    |                 |                 |                     |
-| 9    |                 |                 |                     |
-| 10   |                 |                 |                     |
+| Week | Topic                      | Video               |
+|------|----------------------------|---------------------|
+| 1    | JavaScript Review          | [w1-video]          |
+| 2    | Development Best Practices | [w2-video]          |
+| 3    | Advanced JavaScript        | [w3-video]          |
+| 4    | React Fundamentals         | [w4-video]          |
+| 5    | Thinking in React          | [w5-video]          |
+| 6    | Async JavaScript           | [w6-video]          |
+| 7    | Routing & State Mgmt.      | [w7-video]          |
+| 8    | JWT, Auth, and React       |                     |
+| 9    |                            |                     |
+| 10   |                            |                     |
 
-<!--
-[w1-materials]: link
-[w1-video]: link
-[w2-materials]: link
-[w2-video]: link
-[w3-materials]: link
-[w3-video]: link
-[w4-materials]: link
-[w4-video]: link
-[w5-materials]: link
-[w5-video]: link
-[w6-materials]: link
-[w6-video]: link
-[w7-materials]: link
-[w7-video]: link
-[w8-materials]: link
-[w8-video]: link
-[w9-materials]: link
-[w9-video]: link
-[w10-materials]: link
-[w10-video]: link
+[w1-video]: https://youtu.be/BMwzMu7ecec
+[w2-video]: https://youtu.be/gRaXb7f_yOo
+[w3-video]: https://youtu.be/KCXJB2lY3SM
+[w4-video]: https://youtu.be/tqK_7ltdUZ8
+[w5-video]: https://youtu.be/VTepcUevTkQ
+[w6-video]: https://youtu.be/UBcziP757Fk
+[w7-video]: https://youtu.be/ijSO-mib4ck
+<!-- 
+[w8-video]: 
+[w9-video]: 
+[w10-video]:  
 -->

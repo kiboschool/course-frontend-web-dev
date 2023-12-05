@@ -17,7 +17,7 @@ so that you do not fall behind.
 | 5    | Thinking in React          | [w5-video]          |
 | 6    | Async JavaScript           | [w6-video]          |
 | 7    | Routing & State Mgmt.      | [w7-video]          |
-| 8    | JWT, Auth, and React       |                     |
+| 8    | JWT, Auth, and React       | [w8-video]          |
 | 9    |                            |                     |
 | 10   |                            |                     |
 
@@ -28,8 +28,8 @@ so that you do not fall behind.
 [w5-video]: https://youtu.be/VTepcUevTkQ
 [w6-video]: https://youtu.be/UBcziP757Fk
 [w7-video]: https://youtu.be/ijSO-mib4ck
+[w8-video]: https://youtu.be/uLhIXeC9h3Q
 <!-- 
-[w8-video]: 
 [w9-video]: 
 [w10-video]:  
 -->
